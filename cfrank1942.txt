@@ -1,39 +1,50 @@
 Rank                                           Won  Lost  Tied    PF    PA   Rating
-   1 Marquette                                   1     0     0    39     0   71.549
-   2 Ohio                                        1     0     0    39     0   62.882
-   3 Western Reserve                             1     0     0    39     0   62.882
-   4 2nd Air Force(CO)                           1     0     0    27    13   62.474
-   5 Santa Ana AAB(CA)                           1     0     0    40     0   62.266
-   6 Georgia                                     1     0     0    21    10   62.147
-   7 Georgia Navy Pre-Flight                     1     0     0    35    19   61.604
-   8 San Francisco                               1     0     0    54     6   61.375
-   9 Texas Tech                                  1     0     0    13     7   61.145
-  10 Georgia Tech                                1     0     0     7     0   60.953
-  11 West Texas A&M                              1     0     0    28     0   59.868
-  12 Baldwin-Wallace                             1     0     0    22     0   58.988
-  13 Wayne State                                 1     0     0    28     6   57.869
-  14 Kent State                                  1     0     0    23     6   56.536
-  15 Albuquerque AFB(NM)                         1     0     0    13     0   54.720
-  16 Ohio Wesleyan                               1     0     0    19     7   54.657
-  17 Arizona                                     6     4     0   189   139   53.690
-  18 Alabama                                     8     3     0   246    97   53.494
-  19 Hardin-Simmons                              1     0     1    34    26   52.493
-  20 Eastern Kentucky                            1     0     0     6     0   51.847
-  21 New Mexico                                  1     1     0    48    21   51.192
-  22 Texas-El Paso                               1     1     0    47    25   49.701
-  23 Boston College                              0     1     0    21    37   45.659
-  24 Tennessee                                   0     1     0     0     8   45.477
-  25 Muskingum                                   0     0     1     7     7   44.940
-  26 John Carroll                                0     0     1     0     0   44.940
-  27 Akron                                       0     7     2    26   183   44.940
-  28 Arizona State                               2     7     1    53   235   44.135
-  29 Oklahoma State                              0     1     0     6    20   43.024
-  30 Utah                                        0     1     0     0    14   42.651
-  31 Mississippi State                           0     1     0     6    21   42.504
-  32 Kentucky                                    0     1     0     0    14   42.452
-  33 Vanderbilt                                  0     1     0     7    27   41.457
-  34 Pensacola NAS(FL)                           0     1     0     0    27   38.018
-  35 South Carolina                              0     1     0     0    29   37.522
-  36 Louisiana-Lafayette                         0     1     0     0    54   33.774
-  37 Northern Arizona                            0     1     0     2    14   33.511
-  38 New Mexico State                            0     2     0     0    73   31.200
+   1 Marquette                                   1     0     0    39     0   71.559
+   2 Texas A&M                                   1     0     0    41     0   65.202
+   3 Texas                                       1     0     0    47     6   63.341
+   4 Ohio                                        1     0     0    39     0   62.886
+   5 Western Reserve                             1     0     0    39     0   62.886
+   6 2nd Air Force(CO)                           1     0     0    27    13   62.474
+   7 Santa Ana AAB(CA)                           1     0     0    40     0   62.269
+   8 Georgia                                     1     0     0    21    10   62.148
+   9 Tulsa                                       1     0     0    40     7   61.641
+  10 Georgia Navy Pre-Flight                     1     0     0    35    19   61.605
+  11 San Francisco                               1     0     0    54     6   61.376
+  12 Texas Tech                                  1     0     0    13     7   61.145
+  13 Georgia Tech                                1     0     0     7     0   60.954
+  14 Rice                                        1     0     0    40     9   60.382
+  15 West Texas A&M                              1     0     0    28     0   59.867
+  16 Baldwin-Wallace                             1     0     0    22     0   58.987
+  17 Wayne State                                 1     0     0    28     6   57.869
+  18 Baylor                                      1     0     0    20     7   57.013
+  19 Kent State                                  1     0     0    23     6   56.535
+  20 SMU                                         1     0     0    14     6   55.415
+  21 TCU                                         1     0     0    13     6   54.993
+  22 Albuquerque AFB(NM)                         1     0     0    13     0   54.719
+  23 Ohio Wesleyan                               1     0     0    19     7   54.656
+  24 Arizona                                     6     4     0   189   139   53.690
+  25 Alabama                                     8     3     0   246    97   53.495
+  26 Hardin-Simmons                              1     0     1    34    26   52.493
+  27 Eastern Kentucky                            1     0     0     6     0   51.847
+  28 New Mexico                                  1     1     0    48    21   51.192
+  29 Texas-El Paso                               1     1     0    47    25   49.701
+  30 Arkansas                                    3     7     0    89   228   46.967
+  31 Boston College                              0     1     0    21    37   45.660
+  32 Tennessee                                   0     1     0     0     8   45.478
+  33 Muskingum                                   0     0     1     7     7   44.940
+  34 John Carroll                                0     0     1     0     0   44.940
+  35 Akron                                       0     7     2    26   183   44.939
+  36 Arizona State                               2     7     1    53   235   44.134
+  37 Oklahoma State                              0     1     0     6    20   43.024
+  38 Utah                                        0     1     0     0    14   42.651
+  39 Mississippi State                           0     1     0     6    21   42.505
+  40 Kentucky                                    0     1     0     0    14   42.453
+  41 Mississippi                                 0     1     0     6     7   41.728
+  42 Vanderbilt                                  0     1     0     7    27   41.458
+  43 Detroit                                     0     1     0     7    14   39.101
+  44 Pensacola NAS(FL)                           0     1     0     0    27   38.019
+  45 South Carolina                              0     1     0     0    29   37.522
+  46 Louisiana-Lafayette                         0     1     0     0    54   33.756
+  47 Northern Arizona                            0     1     0     2    14   33.510
+  48 Wichita State                               0     1     0     0    27   31.512
+  49 New Mexico State                            0     2     0     0    73   31.197
