@@ -1,733 +1,753 @@
 Rank                                           Won  Lost  Tied    PF    PA   Rating
-   1 Miami FL                                    2     0     0    55    22   92.377
-   2 Oregon                                      3     0     0   184    27   87.258
-   3 Florida                                     1     1     0    40    27   87.189
-   4 Missouri                                    2     0     0    96    37   83.646
-   5 Florida St                                  2     0     0   103    20   82.038
-   6 Auburn                                      3     0     0    93    53   81.730
-   7 Washington                                  2     0     0    72    30   81.338
-   8 Oklahoma St                                 3     0     0   136    41   80.917
-   9 Arizona                                     3     0     0   131    26   79.354
-  10 Louisville                                  3     0     0   120    27   79.215
-  11 Washington St                               2     1     0    82    48   78.377
-  12 Alabama                                     2     0     0    84    52   78.137
-  13 TAMU-Kingsville                             1     0     0    21    14   78.113
-  14 Toledo                                      1     2     0    62    83   77.605
-  15 Navy                                        2     0     0    92    42   77.217
-  16 Baylor                                      2     0     0   139    16   76.925
-  17 Clemson                                     2     0     0    90    48   75.836
-  18 UCLA                                        2     0     0    99    41   75.111
-  19 Tennessee                                   2     1     0   111    79   74.870
-  20 Illinois                                    2     1     0   111    85   74.334
-  21 Carson-Newman                               2     0     0    82    52   74.114
-  22 North Dakota St                             2     0     0    80    31   74.093
-  23 Western Conn St                             1     0     0    44     7   73.642
-  24 Arizona St                                  2     0     0    87    30   73.341
-  25 Eastern Washington                          2     1     0   113    93   72.768
-  26 Mississippi St                              1     2     0    74    52   72.688
-  27 Virginia                                    1     1     0    29    75   72.229
-  28 Indiana                                     2     1     0   150    86   72.119
-  29 Southern Cal                                2     1     0    72    30   71.918
-  30 Texas A&M                                   2     1     0   159   108   71.830
-  31 Georgia                                     1     1     0    76    68   71.530
-  32 Ohio U.                                     2     1     0    68   101   71.523
-  33 Southern Utah                               2     1     0    81    69   71.448
-  34 FDU-Florham                                 1     0     0    18    12   71.345
-  35 Central Washington                          1     1     0    34    28   71.269
-  36 Washington and Lee                          1     0     0    14    13   71.140
-  37 Trinity Int'l                               2     0     0   105     6   71.087
-  38 Ursinus                                     2     0     0    69    43   71.075
-  39 Texas-San Antonio                           1     2     0    69   107   71.072
-  40 Pittsburgh                                  1     1     0    62    68   70.988
-  41 Buffalo St                                  2     0     0    83    68   70.945
-  42 Central Florida                             3     0     0   110    38   70.811
-  43 Georgia Tech                                2     0     0   108    14   70.453
-  44 Oklahoma                                    3     0     0   101    27   69.758
-  45 Oregon St                                   2     1     0   130   111   69.672
-  46 South Alabama                               2     1     0    93    85   69.365
-  47 LSU                                         3     0     0   138    57   69.212
-  48 Texas Tech                                  3     0     0   122    46   69.180
-  49 Kansas St                                   2     1     0   106    58   68.939
-  50 Ohio State                                  3     0     0   134    61   68.779
-  51 Bethune-Cookman                             3     0     0   112    29   68.508
-  52 Colorado Mines                              1     1     0    96    33   68.508
-  53 Wisconsin                                   2     1     0   123    32   68.472
-  54 Benedictine KS                              2     0     0    58    24   68.404
-  55 Maryland                                    3     0     0   122    41   68.253
-  56 Arkansas                                    3     0     0    89    38   68.251
-  57 Virginia Tech                               2     1     0    70    48   68.189
-  58 Boise St                                    2     1     0   111    72   68.093
-  59 Eastern Illinois                            3     0     0   137    80   68.026
-  60 Marshall                                    2     1     0   138    48   67.919
-  61 Cincinnati                                  2     1     0   125    61   67.768
-  62 Towson                                      3     0     0   131    32   67.746
-  63 Nebraska                                    2     1     0   114    88   67.341
-  64 Wheaton                                     2     0     0   114    27   67.279
-  65 Montana                                     2     0     0    85    23   67.222
-  66 Arkansas St                                 2     1     0   112    83   66.848
-  67 North Texas                                 2     1     0    95    60   66.695
-  68 Brigham Young                               1     1     0    56    40   66.661
-  69 Delaware Valley                             2     0     0    77    44   66.302
-  70 Wayne St MI                                 1     1     0    62    77   66.194
-  71 South Carolina                              2     1     0    92    76   66.185
-  72 Michigan                                    3     0     0   128    63   66.153
-  73 Utah                                        2     1     0   148    84   66.133
-  74 Ohio Northern                               1     0     0    55     0   66.080
-  75 Franklin & Marshall                         1     1     0    41    35   66.032
-  76 Brockport St                                1     1     0    70    44   65.952
-  77 Johns Hopkins                               2     0     0    62    21   65.952
-  78 Minnesota-Duluth                            2     0     0    69    26   65.912
-  79 Western Kentucky                            1     2     0    79   109   65.789
-  80 Bowling Green                               2     1     0    85    71   65.499
-  81 Coe                                         2     0     0    65    29   65.498
-  82 Rice                                        1     1     0    54    66   65.399
-  83 Tulane                                      2     1     0    97    63   65.173
-  84 Northern Michigan                           1     0     0    41    31   64.848
-  85 Augsburg                                    1     0     0    51    17   64.841
-  86 Indianapolis                                2     0     0    61    29   64.833
-  87 Southern Illinois                           1     2     0   102    92   64.779
-  88 Northwestern                                3     0     0   130    74   64.695
-  89 Penn State                                  2     1     0    99    58   64.671
-  90 New Jersey                                  0     2     0    32    46   64.548
-  91 Mississippi                                 3     0     0   114    71   64.478
-  92 Cortland St                                 0     1     0    28    41   64.222
-  93 North Carolina St                           2     0     0    63    35   64.100
-  94 Wabash                                      1     0     0    69     0   63.993
-  95 Whitworth                                   2     0     0    74    24   63.979
-  96 Christopher Newport                         2     0     0    34    17   63.767
-  97 New Mexico                                  1     2     0    82   105   63.322
-  98 Nevada                                      1     2     0    63   127   63.254
-  99 Gettysburg                                  1     1     0    85    81   63.204
- 100 TCU                                         1     2     0    75    74   62.929
- 101 UW-Whitewater                               1     0     0    17     7   62.911
- 102 Tennessee St                                2     1     0    62    35   62.827
- 103 East Carolina                               2     1     0    93    66   62.759
- 104 Wyoming                                     2     1     0   111    54   62.711
- 105 Denison                                     2     0     0    68    40   62.613
- 106 West Chester                                2     0     0   101    55   62.595
- 107 Kentucky                                    1     2     0    80    69   62.502
- 108 Colorado                                    2     0     0    79    51   62.406
- 109 Concordia-St Paul                           2     0     0    46    14   62.327
- 110 Friends                                     1     1     0    39    49   62.269
- 111 Shaw                                        2     0     0    77    35   62.119
- 112 Utah St                                     2     1     0   148    56   62.099
- 113 Trine                                       2     0     0    35    10   62.073
- 114 Louisiana-Lafayette                         1     2     0   111    89   61.980
- 115 Henderson St                                2     0     0   157    24   61.952
- 116 South Dakota St                             3     0     0   124    68   61.952
- 117 Michigan St                                 3     0     0   102    36   61.944
- 118 Wesley                                      2     0     0    63    48   61.889
- 119 Notre Dame                                  2     1     0    89    71   61.864
- 120 Minnesota                                   3     0     0   124    56   61.765
- 121 Ball St                                     2     1     0   118    76   61.752
- 122 Coastal Carolina                            3     0     0   113    80   61.747
- 123 Buffalo                                     1     2     0    59   133   61.526
- 124 Troy                                        2     1     0   134    75   61.372
- 125 Western Oregon                              0     2     0    21    63   61.314
- 126 West Virginia                               2     1     0    72    40   61.292
- 127 Hawai`i                                     0     2     0    27    63   61.134
- 128 Maine                                       3     0     0    82    42   60.641
- 129 Catholic                                    1     0     0    48    16   60.506
- 130 Connecticut                                 0     2     0    39    65   60.466
- 131 Northern Illinois                           2     0     0    75    62   60.438
- 132 Tennessee-Martin                            2     1     0    69   107   60.292
- 133 Merchant Marine                             2     0     0    62    48   60.253
- 134 Rowan                                       1     1     0    56    54   60.222
- 135 SMU                                         1     1     0    54    71   60.196
- 136 Stanford                                    2     0     0    68    33   60.003
- 137 Texas St-San Marcos                         2     0     0    50    18   59.938
- 138 St Ambrose                                  1     0     0    48    37   59.918
- 139 Duke                                        2     1     0    87    52   59.852
- 140 Muhlenberg                                  1     1     0    80    34   59.777
- 141 UW-Oshkosh                                  2     0     0    58    33   59.748
- 142 Pacific OR                                  2     0     0    87    40   59.670
- 143 St Lawrence                                 2     0     0    35    20   59.624
- 144 Boston College                              2     1     0    55    59   59.569
- 145 Geneva                                      2     0     0    98    36   59.566
- 146 Monmouth IL                                 1     1     0    81    37   59.527
- 147 Benedictine IL                              1     1     0    63    58   59.520
- 148 Vanderbilt                                  1     2     0    98    77   59.441
- 149 Ashland                                     0     2     0    31    44   59.414
- 150 RPI                                         2     0     0    44    28   59.355
- 151 St Thomas                                   2     0     0    83    14   59.344
- 152 Benedict                                    2     0     0    72    23   59.271
- 153 North Carolina A&T                          2     0     0    47    31   59.242
- 154 John Carroll                                1     0     0    41     0   59.231
- 155 California                                  1     2     0   101   126   59.187
- 156 Fresno St                                   2     0     0    93    76   59.139
- 157 Gardner-Webb                                2     1     0    40    86   59.137
- 158 Kansas                                      1     1     0    45    37   58.989
- 159 Carthage                                    1     0     0    52     6   58.956
- 160 Carroll MT                                  3     0     0   103    17   58.879
- 161 Sam Houston St                              2     1     0   157    82   58.834
- 162 Wofford                                     2     1     0    54    99   58.771
- 163 SW Oklahoma St                              2     0     0    55    40   58.756
- 164 Bridgewater VA                              2     0     0    95    13   58.687
- 165 Methodist                                   2     0     0    74    54   58.684
- 166 Findlay                                     1     1     0    82    74   58.682
- 167 St John Fisher                              2     0     0    70    21   58.637
- 168 Houston                                     2     0     0    84    26   58.595
- 169 Texas                                       1     2     0   100    91   58.469
- 170 Akron                                       1     2     0    66    99   58.439
- 171 Huntingdon AL                               1     0     0    35     7   58.399
- 172 Nichols                                     1     1     0    35    71   58.347
- 173 Doane                                       1     1     0    55    51   58.259
- 174 Centre                                      2     0     0    60    45   58.221
- 175 Tulsa                                       1     2     0    57   112   58.190
- 176 McNeese St                                  3     0     0   155    77   58.101
- 177 Bethel MN                                   1     0     0    30    17   58.047
- 178 North Carolina                              1     1     0    50    47   58.018
- 179 Kent St                                     1     2     0    52    96   58.008
- 180 Linfield                                    1     0     0    71    21   57.947
- 181 Upper Iowa                                  1     1     0    66    37   57.945
- 182 Samford                                     2     1     0    79    72   57.927
- 183 Pittsburg St                                2     0     0   110    30   57.698
- 184 Syracuse                                    1     2     0    98    71   57.646
- 185 Jacksonville St                             3     0     0    96    56   57.620
- 186 Wingate                                     1     0     0    24     3   57.526
- 187 UTEP                                        1     1     0    77    63   57.494
- 188 Purdue                                      1     2     0    51    87   57.420
- 189 Hobart                                      1     0     0    30     7   57.354
- 190 San Diego St                                0     2     0    26    82   57.297
- 191 Illinois Wesleyan                           2     0     0    86    24   57.282
- 192 Northern Iowa                               2     0     0    73    34   57.279
- 193 Ferris St                                   1     1     0    66   105   57.266
- 194 Louisiana Tech                              1     2     0    56    78   57.208
- 195 Washburn                                    2     0     0   112    30   57.026
- 196 Stony Brook                                 1     1     0    47    26   56.896
- 197 South Carolina St                           1     2     0    65    79   56.815
- 198 Kalamazoo                                   2     0     0    59    44   56.751
- 199 Heidelberg                                  1     0     0    52     7   56.727
- 200 Tusculum                                    1     0     0    54    41   56.699
- 201 Thomas More                                 1     0     0    20     0   56.693
- 202 Gannon                                      1     1     0    77    89   56.624
- 203 Salisbury                                   0     2     0    37    47   56.510
- 204 Alabama-Birmingham                          0     2     0    48    90   56.485
- 205 Chapman                                     1     0     0    57    14   56.475
- 206 Iowa                                        2     1     0    82    65   56.442
- 207 Misericordia                                0     2     0    57   104   56.401
- 208 Birmingham-Southern                         2     0     0    94    70   56.371
- 209 Florida Int'l                               0     3     0    23   115   56.169
- 210 Northwestern St                             2     1     0    87    97   56.163
- 211 Richmond                                    1     2     0    65    35   56.153
- 212 SE Louisiana St                             1     2     0    88    79   56.140
- 213 Hiram                                       1     1     0    35    36   56.131
- 214 Florida Atlantic                            1     2     0    47    75   56.109
- 215 Louisiana-Monroe                            2     1     0    69    63   56.078
- 216 NW Missouri St                              2     0     0    73    48   56.028
- 217 Murray St                                   2     1     0   138   110   55.925
- 218 Bloomsburg                                  2     0     0    88    48   55.880
- 219 Eastern Kentucky                            1     2     0    77   101   55.876
- 220 Hope                                        2     0     0    82    28   55.871
- 221 Rutgers                                     2     1     0   117    62   55.857
- 222 Newberry                                    2     0     0    58    51   55.813
- 223 Central Arkansas                            1     2     0   105    69   55.799
- 224 North Dakota                                1     2     0   114   100   55.762
- 225 Bemidji St                                  1     1     0    48    44   55.738
- 226 Missouri Western                            2     0     0    89    26   55.729
- 227 Randolph-Macon                              1     1     0    47    44   55.691
- 228 Jackson St                                  1     2     0    53    83   55.574
- 229 Chattanooga                                 2     1     0   105    55   55.554
- 230 Ithaca                                      1     0     0    31     7   55.527
- 231 Old Dominion                                1     2     0   124   118   55.505
- 232 Illinois St                                 0     2     0    52   108   55.439
- 233 Grove City                                  2     0     0    70    10   55.374
- 234 Baldwin Wallace                             1     0     0    52    21   55.312
- 235 St Xavier                                   1     1     0    51    75   55.292
- 236 Delaware                                    2     1     0   100   107   55.244
- 237 Fordham                                     3     0     0   108    79   55.204
- 238 West Georgia                                2     0     0    62    28   55.100
- 239 Northern Arizona                            1     1     0    21    45   55.072
- 240 Millsaps                                    2     0     0    80    43   55.056
- 241 Illinois College                            2     0     0    91    26   55.011
- 242 Juniata                                     2     0     0    78    34   54.934
- 243 Grand Valley St                             2     0     0    69    32   54.917
- 244 Colorado St                                 1     2     0    88    88   54.873
- 245 Kentucky St                                 2     0     0    80    23   54.829
- 246 Widener                                     1     1     0    56    61   54.817
- 247 Bryant                                      2     1     0    73    58   54.770
- 248 UNLV                                        1     2     0    67   130   54.768
- 249 Case Western Reserve                        1     0     0    37    16   54.750
- 250 Earlham                                     1     1     0    53    66   54.727
- 251 Whittier                                    0     1     0    17    38   54.692
- 252 Montana St                                  2     1     0    98    55   54.573
- 253 Hampden-Sydney                              1     1     0    49    29   54.562
- 254 East Stroudsburg                            2     0     0    91    21   54.559
- 255 Shepherd                                    2     0     0    60     7   54.557
- 256 William & Mary                              2     1     0    82    37   54.549
- 257 Youngstown St                               2     1     0   112    78   54.533
- 258 Susquehanna                                 0     2     0    35    59   54.452
- 259 Utica                                       2     0     0    67    38   54.451
- 260 Willamette                                  2     0     0    97    62   54.385
- 261 Stevenson                                   2     0     0    43    27   54.352
- 262 Olivet                                      2     0     0    62    37   54.338
- 263 Virginia Union                              0     2     0    28    99   54.258
- 264 Cornell IA                                  1     1     0    52    56   54.240
- 265 Carleton                                    1     0     0    29    10   54.158
- 266 Ripon                                       2     0     0    53    44   54.094
- 267 Central IA                                  1     1     0    58    37   54.078
- 268 Nicholls St                                 1     2     0    37   159   53.989
- 269 TAMU-Commerce                               2     0     0    96    43   53.916
- 270 Alfred                                      0     1     0    21    24   53.911
- 271 Taylor                                      1     1     0    95    55   53.906
- 272 Washington U.                               1     1     0    17    24   53.893
- 273 Coast Guard                                 0     2     0    37    48   53.851
- 274 Appalachian St                              0     2     0    27    54   53.808
- 275 Concordia WI                                1     1     0    37    61   53.792
- 276 Emporia St                                  2     0     0    77    34   53.792
- 277 Northwestern IA                             1     1     0    82    71   53.791
- 278 Indiana St                                  1     2     0   119   100   53.760
- 279 Ouachita Baptist                            1     0     0    49    24   53.669
- 280 Ohio Wesleyan                               1     0     0    37    20   53.648
- 281 Harding                                     1     1     0    92    27   53.536
- 282 Southern Miss                               0     3     0    31   102   53.528
- 283 Georgia Southern                            2     1     0   156    56   53.474
- 284 St Cloud St                                 2     0     0    78    61   53.460
- 285 Elmhurst                                    1     1     0    42    25   53.425
- 286 Concordia MI                                1     1     0    41    78   53.420
- 287 Westfield St                                1     1     0    60    35   53.398
- 288 Framingham St                               1     1     0    54    52   53.213
- 289 Air Force                                   1     2     0    78   107   53.074
- 290 Pacific Lutheran                            1     0     0    31    24   53.039
- 291 West Alabama                                1     1     0    84    50   53.014
- 292 Guilford                                    1     1     0    65    69   53.009
- 293 Michigan Tech                               1     0     0    40    14   52.942
- 294 Massachusetts                               0     3     0    21   106   52.918
- 295 Tuskegee                                    2     0     0    42    20   52.873
- 296 Mass Maritime                               1     0     0    24    20   52.844
- 297 Idaho                                       0     3     0    51   127   52.739
- 298 Morningside                                 2     0     0   104    38   52.687
- 299 Mary Hardin-Baylor                          2     0     0    65    20   52.683
- 300 Tarleton St                                 1     0     0    27    24   52.677
- 301 Western Illinois                            2     1     0    88    44   52.665
- 302 Bethany WV                                  0     2     0    61    84   52.636
- 303 North Alabama                               1     1     0    63    31   52.630
- 304 Furman                                      1     2     0    70    83   52.619
- 305 Portland St                                 2     1     0   130    60   52.606
- 306 Grand View                                  2     0     0    45    37   52.580
- 307 UNC-Pembroke                                2     0     0    63    45   52.520
- 308 Gallaudet                                   2     0     0    69    34   52.517
- 309 Gustavus Adolphus                           1     0     0    28    21   52.513
- 310 Minn St-Mankato                             2     0     0   102    47   52.393
- 311 Wake Forest                                 1     2     0    60    52   52.042
- 312 San José St                                 1     1     0    37    34   51.996
- 313 James Madison                               2     1     0    95    69   51.982
- 314 Charleston WV                               0     2     0    24    75   51.975
- 315 Trinity Bible                               1     1     0    38    68   51.882
- 316 Urbana                                      1     1     0    72    70   51.733
- 317 Lake Erie                                   0     2     0    82    92   51.664
- 318 Liberty                                     2     1     0    93    42   51.547
- 319 Florida A&M                                 1     2     0    54    64   51.525
- 320 Claremont-Mudd-Scripps                      1     0     0    31    28   51.439
- 321 Missouri Southern                           2     0     0    69    52   51.429
- 322 Adrian                                      1     1     0    24    20   51.326
- 323 Sioux Falls                                 1     1     0    52    69   51.298
- 324 Southern Arkansas                           1     1     0   100    72   51.260
- 325 Southern Virginia                           1     1     0    44    54   51.223
- 326 Lamar                                       1     2     0    92    86   51.201
- 327 Emory & Henry                               2     0     0    76    34   51.174
- 328 Hendrix                                     1     1     0    78    79   51.169
- 329 Colorado St-Pueblo                          2     0     0    86    60   51.161
- 330 Rochester                                   1     0     0    28    27   51.151
- 331 South Dakota                                1     1     0    24    38   51.091
- 332 Middle Tennessee St                         2     1     0    82    79   51.079
- 333 Lake Forest                                 2     0     0    59    16   51.016
- 334 Rose-Hulman                                 0     2     0    40    55   50.986
- 335 Miami OH                                    0     2     0    21    93   50.974
- 336 Alabama St                                  1     2     0    85    93   50.962
- 337 Western Michigan                            0     3     0    53    91   50.925
- 338 Occidental                                  0     1     0    30    67   50.823
- 339 Arkansas Tech                               1     1     0    55    38   50.809
- 340 Charleston Southern                         3     0     0    85    54   50.771
- 341 UW-Platteville                              2     0     0    80    41   50.745
- 342 Concordia NE                                2     0     0    56    36   50.737
- 343 St John's MN                                2     0     0    34    28   50.696
- 344 Elizabeth City St                           0     2     0    73    89   50.645
- 345 Villanova                                   0     2     0    38    51   50.632
- 346 Iowa St                                     0     2     0    41    55   50.554
- 347 New Haven                                   1     1     0    79    45   50.448
- 348 Central Missouri                            0     2     0    47    54   50.422
- 349 Westminster PA                              0     1     0    19    23   50.398
- 350 North Greenville                            2     0     0    63    48   50.397
- 351 Holy Cross                                  1     2     0    75    87   50.383
- 352 Temple                                      0     3     0    48    80   50.327
- 353 Army                                        1     2     0    62    86   50.306
- 354 Virginia St                                 1     1     0    43    58   50.262
- 355 Lycoming                                    1     1     0    36    48   50.204
- 356 Wartburg                                    1     1     0    75    37   50.187
- 357 Minot St                                    1     1     0    23    46   50.094
- 358 Wash & Jeff                                 1     1     0    79    63   50.069
- 359 Florida Tech                                1     1     0    39    36   50.022
- 360 Elon                                        1     2     0    59   100   50.020
- 361 St Scholastica                              1     1     0    54    46   50.008
- 362 SE Oklahoma St                              1     1     0    90    92   49.965
- 363 Manchester                                  0     2     0    24    50   49.930
- 364 Adams St                                    2     0     0    70    10   49.874
- 365 Edinboro                                    1     1     0    70    81   49.840
- 366 Weber St                                    1     2     0    63   180   49.731
- 367 East Central OK                             1     1     0    62    72   49.730
- 368 Missouri St                                 0     3     0    69    92   49.639
- 369 LaGrange                                    0     2     0    62    87   49.514
- 370 Marian IN                                   1     2     0    60    65   49.450
- 371 Faulkner                                    3     0     0   157    48   49.427
- 372 McDaniel                                    1     1     0    37    62   49.423
- 373 St Francis IN                               1     0     0    31    13   49.363
- 374 Norwich                                     0     2     0    10    34   49.363
- 375 North Carolina Central                      2     1     0    63    78   49.272
- 376 Idaho St                                    2     0     0    69    17   49.228
- 377 East Texas Baptist                          1     0     0    52    34   49.175
- 378 Mount Union                                 1     0     0    30    27   49.158
- 379 Butler                                      2     1     0    94   107   49.148
- 380 Stillman                                    2     0     0    79     6   49.088
- 381 Arkansas-Monticello                         1     1     0    64    80   49.046
- 382 Lebanon Valley                              1     1     0    43    49   49.005
- 383 Texas Lutheran                              2     0     0    86    52   48.975
- 384 Montana Tech                                1     1     0    30    28   48.910
- 385 Winona St                                   0     2     0    53    63   48.900
- 386 Mars Hill                                   1     1     0    62    61   48.859
- 387 Carroll WI                                  1     1     0    47    40   48.854
- 388 Sewanee                                     1     1     0    38    40   48.800
- 389 Delta St                                    1     1     0    61    59   48.695
- 390 Bacone                                      2     1     0   106   100   48.673
- 391 New Mexico St                               0     3     0    49   142   48.666
- 392 Cal Poly SLO                                1     2     0    80    91   48.646
- 393 Central Michigan                            1     2     0    54   111   48.492
- 394 Catawba                                     2     0     0    52    25   48.434
- 395 Alcorn St                                   2     1     0   105    91   48.398
- 396 Dayton                                      2     1     0    54    62   48.272
- 397 Albright                                    1     1     0    48    38   48.102
- 398 Wisconsin Lutheran                          0     2     0    34    45   48.016
- 399 Chicago                                     2     0     0    40    13   48.000
- 400 Saginaw Valley St                           1     1     0    83    65   47.968
- 401 Aurora                                      0     1     0    21    48   47.944
- 402 Georgia St                                  0     3     0    42   114   47.800
- 403 Concordia-Moorhead                          2     0     0    60    27   47.760
- 404 Lehigh                                      2     0     0    79    69   47.753
- 405 Rhodes                                      1     1     0    31    31   47.750
- 406 Greensboro                                  0     2     0    41    69   47.740
- 407 South Florida                               0     3     0    37   102   47.734
- 408 American Int'l                              1     1     0    76    71   47.664
- 409 Jacksonville FL                             1     2     0   117   118   47.647
- 410 Lindsey Wilson                              3     0     0   113    82   47.574
- 411 McKendree                                   1     1     0    46   103   47.558
- 412 Ohio Dominican                              2     0     0    78    34   47.536
- 413 Johnson C. Smith                            2     0     0    92    58   47.526
- 414 Mercer                                      2     0     0   101    37   47.456
- 415 North Park                                  0     2     0    31    77   47.422
- 416 The Citadel                                 1     2     0    67    74   47.406
- 417 Siena Heights                               1     1     0    56    55   47.340
- 418 Midwestern St                               0     1     0    24    27   47.323
- 419 Union NY                                    0     1     0    16    25   47.319
- 420 Memphis                                     0     2     0    29    45   47.275
- 421 Delaware St                                 0     2     0    28    91   47.260
- 422 Kenyon                                      1     1     0    52    32   47.233
- 423 SUNY-Maritime                               0     1     0    20    24   47.156
- 424 UW-Stout                                    2     0     0    48    27   47.134
- 425 Abilene Christian                           3     0     0   196    51   47.060
- 426 SE Missouri St                              0     2     0    20    76   46.965
- 427 Louisiana College                           2     0     0    54    19   46.964
- 428 Cal Lutheran                                0     1     0    24    31   46.961
- 429 Winston-Salem St                            1     1     0    83    33   46.878
- 430 Eastern Michigan                            1     2     0    51    97   46.862
- 431 Waynesburg                                  2     0     0    80    66   46.825
- 432 Bucknell                                    1     0     0    27    14   46.681
- 433 Southern U.                                 1     2     0    89   176   46.645
- 434 Greenville                                  2     0     0   104    68   46.598
- 435 Wilmington                                  0     1     0    27    48   46.556
- 436 Lindenwood                                  2     0     0    59    49   46.553
- 437 Hardin-Simmons                              0     2     0    55   135   46.514
- 438 Tennessee Tech                              2     1     0    93    82   46.469
- 439 Simpson                                     1     1     0    76    49   46.257
- 440 Arkansas-Pine Bluff                         0     3     0    64   160   46.249
- 441 Endicott                                    1     1     0    66    42   46.237
- 442 Drake                                       0     2     0    30    66   46.219
- 443 Thiel                                       0     2     0    47    69   46.204
- 444 Westminster MO                              1     1     0    79    60   46.200
- 445 Lewis & Clark                               0     2     0    50    73   46.170
- 446 SW Minnesota St                             1     1     0    62    69   46.076
- 447 Alfred St                                   0     2     0    21    90   45.899
- 448 Central Oklahoma                            0     2     0    62   117   45.889
- 449 Truman St                                   1     1     0    55    68   45.882
- 450 Azusa Pacific                               1     1     0    53    58   45.871
- 451 UC-Davis                                    0     3     0    24    67   45.817
- 452 North Carolina Wesleyan                     0     2     0    30    43   45.787
- 453 Springfield                                 2     0     0    85    40   45.708
- 454 Sacred Heart                                3     0     0   108    48   45.688
- 455 Albany St GA                                0     2     0    37    45   45.642
- 456 Nebraska-Kearney                            0     2     0    34    92   45.582
- 457 Albion                                      1     1     0    32    95   45.577
- 458 Northern Colorado                           1     2     0    74    86   45.568
- 459 Central St OH                               0     2     0    26    80   45.544
- 460 Bluffton                                    0     2     0    41    89   45.520
- 461 Mary                                        1     1     0    55    61   45.446
- 462 Macalester                                  1     1     0    41    34   45.438
- 463 Shenandoah                                  1     1     0    63    60   45.417
- 464 Rhode Island                                1     2     0    45    88   45.324
- 465 Fayetteville St                             0     2     0    52    67   45.323
- 466 Northern St SD                              1     1     0    66    72   45.268
- 467 UW-River Falls                              0     2     0    21    48   45.255
- 468 Marietta                                    0     1     0    16    37   45.250
- 469 Montana St-Northern                         2     1     0    62    58   45.143
- 470 Stephen F. Austin                           1     2     0   103   124   45.137
- 471 Maryville                                   1     1     0    58    27   45.117
- 472 Southern Nazarene                           0     2     0    34   131   45.055
- 473 Walsh                                       1     1     0    59    49   45.052
- 474 Northeastern St OK                          0     2     0    20    62   44.983
- 475 California PA                               2     0     0    67    29   44.981
- 476 Lawrence                                    0     2     0    27    59   44.907
- 477 Carnegie Mellon                             1     1     0    36    35   44.873
- 478 Hastings                                    1     1     0    59    46   44.862
- 479 Cumberlands KY                              3     0     0   134    48   44.761
- 480 UW-Eau Claire                               0     2     0    21    69   44.705
- 481 St Francis PA                               0     2     0    37    83   44.671
- 482 McPherson                                   1     1     0    65    37   44.653
- 483 Augustana SD                                1     1     0    58    51   44.617
- 484 Mississippi College                         0     2     0    26    87   44.616
- 485 Dickinson                                   0     2     0    21    67   44.610
- 486 North Central                               1     0     0    41    24   44.587
- 487 Presbyterian                                1     2     0    69    76   44.567
- 488 UW-Stevens Point                            1     0     0    49    20   44.474
- 489 West Texas A&M                              2     0     0    82    52   44.399
- 490 Avila                                       2     0     0   121    27   44.293
- 491 Tabor                                       2     0     0    31    22   44.255
- 492 Valley City St                              2     1     0   122    90   44.154
- 493 Stonehill                                   1     1     0    65    65   43.986
- 494 Montclair St                                1     1     0    31    31   43.973
- 495 Duquesne                                    1     1     0    55    47   43.960
- 496 Norfolk St                                  0     2     0     6    61   43.900
- 497 Colorado Mesa                               1     1     0    34    26   43.885
- 498 Slippery Rock                               2     0     0   109    74   43.882
- 499 Franklin                                    0     2     0    55    61   43.872
- 500 Incarnate Word                              2     1     0   100    58   43.871
- 501 Hamline                                     1     0     0    41    33   43.834
- 502 St Augustine's                              0     2     0    23    47   43.800
- 503 Simon Fraser                                1     0     0    41    27   43.675
- 504 Dubuque                                     1     1     0    59    62   43.638
- 505 Maranatha Baptist                           1     1     0    76    92   43.612
- 506 Fort Hays St                                0     2     0    30    97   43.601
- 507 Puget Sound                                 0     1     0    14    57   43.525
- 508 Robert Morris IL                            3     0     0    92    41   43.496
- 509 Rocky Mountain                              3     0     0   125    73   43.448
- 510 Grinnell                                    0     2     0    23    71   43.433
- 511 Angelo St                                   1     1     0    62    71   43.338
- 512 New Hampshire                               1     1     0    74    47   43.323
- 513 Capital                                     0     1     0     0    20   43.307
- 514 Trinity TX                                  1     1     0    85    71   43.289
- 515 Prairie View A&M                            1     2     0    99   103   43.239
- 516 Augustana IL                                1     1     0    33    48   43.158
- 517 Austin Peay                                 0     3     0    13   125   43.154
- 518 Shorter                                     0     2     0    45    64   43.075
- 519 Robert Morris PA                            1     2     0    51    73   43.067
- 520 West Liberty                                1     1     0    25    23   43.045
- 521 Monmouth NJ                                 0     3     0    64   115   43.043
- 522 Redlands                                    0     1     0    13    31   43.029
- 523 Stetson                                     1     1     0    44    23   42.944
- 524 Montana-Western                             2     0     0    93    55   42.944
- 525 Notre Dame OH                               1     1     0    56    70   42.940
- 526 Alabama A&M                                 1     2     0    30    64   42.923
- 527 Otterbein                                   0     1     0     0    28   42.915
- 528 South Dakota Tech                           1     1     0    49   107   42.892
- 529 Assumption                                  1     1     0    27    48   42.797
- 530 VMI                                         1     2     0    58    98   42.788
- 531 DePauw                                      0     1     0     7    10   42.656
- 532 Fairmont St                                 1     1     0    44    56   42.623
- 533 Moravian                                    0     2     0    21    52   42.561
- 534 St Francis IL                               2     0     0    84    54   42.538
- 535 Hanover                                     0     2     0    13   118   42.481
- 536 Austin                                      0     2     0    55    76   42.314
- 537 Reinhardt                                   1     2     0   101   104   42.307
- 538 St Joseph's IN                              1     1     0    65    66   42.182
- 539 William Jewell                              1     1     0    51    64   42.181
- 540 Averett                                     0     2     0    18    75   42.138
- 541 Tiffin                                      0     2     0    42    72   42.129
- 542 Western Carolina                            0     3     0    48   118   42.054
- 543 Apprentice                                  0     2     0    20    97   42.021
- 544 Wilkes                                      1     1     0    59    60   41.944
- 545 Lakeland                                    0     2     0    24    79   41.942
- 546 Merrimack                                   1     1     0    92   103   41.935
- 547 Minnesota-Crookston                         0     2     0    26   115   41.898
- 548 Pikeville                                   3     0     0   116    64   41.773
- 549 Mississippi Valley St                       0     3     0    52    86   41.699
- 550 Central Conn St                             0     3     0    79   141   41.641
- 551 Sacramento St                               1     2     0    63   135   41.570
- 552 Hartwick                                    2     0     0    84    41   41.570
- 553 Dakota Wesleyan                             1     1     0    76    50   41.373
- 554 Bowie St                                    1     1     0    83    86   41.368
- 555 UNC-Charlotte                               2     1     0   112    54   41.308
- 556 Frostburg St                                0     2     0    52   106   41.257
- 557 Point U.                                    2     0     0    92    50   41.237
- 558 Lincoln MO                                  1     1     0    69    58   41.224
- 559 Lane                                        2     0     0    69    30   41.208
- 560 Millikin                                    0     2     0    48    89   41.095
- 561 Campbellsville                              0     2     0    31   107   41.027
- 562 Muskingum                                   0     1     0    17    21   40.993
- 563 Loras                                       1     1     0    53    68   40.890
- 564 Hampton                                     0     3     0    43   103   40.831
- 565 Howard                                      1     2     0    70   126   40.825
- 566 Buena Vista                                 0     2     0    30    63   40.653
- 567 SW Baptist                                  0     2     0    64    75   40.615
- 568 Wittenberg                                  0     1     0    24    49   40.530
- 569 St Norbert                                  1     1     0    42    48   40.507
- 570 Webber Int'l                                1     2     0    56    67   40.506
- 571 Lafayette                                   0     2     0    30    60   40.493
- 572 Alma                                        0     2     0    10    90   40.382
- 573 Defiance                                    0     2     0    29    46   40.312
- 574 Western New England                         0     2     0    47    82   39.999
- 575 OK Panhandle St                             1     2     0    45   114   39.974
- 576 Wayne St NE                                 0     2     0    54    63   39.841
- 577 Miles                                       0     2     0    14    73   39.802
- 578 William Penn                                1     1     0    47    39   39.696
- 579 Wooster                                     0     1     0    21    58   39.674
- 580 New Mexico Highlands                        1     1     0    59    80   39.621
- 581 Hillsdale                                   0     2     0    39    59   39.465
- 582 Presentation                                2     0     0    68    58   39.333
- 583 Chadron St                                  1     1     0    71    68   39.282
- 584 Kentucky Wesleyan                           0     2     0    26    81   39.150
- 585 Kean                                        0     2     0    21    64   39.094
- 586 Nebraska Wesleyan                           0     2     0    19    58   39.023
- 587 Peru St                                     2     0     0   100    42   38.970
- 588 Salve Regina                                1     1     0    52    24   38.960
- 589 San Diego                                   1     1     0    54    73   38.951
- 590 Minn St-Moorhead                            0     2     0    48    68   38.787
- 591 Martin Luther                               1     1     0    94    90   38.699
- 592 Ferrum                                      0     2     0    42    92   38.641
- 593 Concordia IL                                0     2     0    16    68   38.619
- 594 Livingstone                                 0     2     0    33    76   38.583
- 595 Albany NY                                   1     2     0    74    88   38.578
- 596 Southwestern TX                             0     2     0    28    76   38.560
- 597 Valdosta St                                 1     0     0    36    21   38.451
- 598 Eastern Oregon                              0     3     0    51   125   38.369
- 599 Marist                                      1     2     0    78    87   38.316
- 600 St Vincent                                  0     1     0     0    57   38.250
- 601 Beloit                                      0     2     0    14    76   38.193
- 602 Dixie St                                    0     2     0    34    76   38.092
- 603 Houston Baptist                             1     1     0    52   102   38.069
- 604 Minnesota-Morris                            0     2     0    60    97   38.003
- 605 Quincy                                      0     2     0    13   104   37.382
- 606 Northwood                                   0     2     0    50    76   37.323
- 607 Malone                                      0     2     0    51    96   37.267
- 608 Southern Oregon                             0     3     0   120   136   37.264
- 609 Shippensburg                                0     2     0    38    91   37.194
- 610 Valparaiso                                  0     3     0    75   139   37.172
- 611 Savannah St                                 1     2     0    39   163   37.128
- 612 Glenville St                                0     2     0    40    50   37.067
- 613 MidAmerica Nazarene                         0     1     0    13    21   37.013
- 614 Wagner                                      1     2     0    69   117   37.000
- 615 Baker                                       2     0     0    66    64   36.953
- 616 UW-La Crosse                                0     2     0    48    76   36.950
- 617 NW Oklahoma St                              0     2     0    10   107   36.900
- 618 Anderson                                    0     2     0     7   100   36.896
- 619 Black Hills St                              0     2     0    61    81   36.875
- 620 Brevard                                     0     1     0    24    42   36.805
- 621 Jamestown                                   0     4     0    55   117   36.750
- 622 Humboldt St                                 0     2     0    33    84   36.749
- 623 Bentley                                     1     1     0    31    36   36.713
- 624 Morgan St                                   0     3     0    36    97   36.704
- 625 Clark Atlanta                               0     2     0    12    69   36.676
- 626 Seton Hill                                  0     2     0    36   107   36.646
- 627 Kansas Wesleyan                             1     1     0    58    66   36.560
- 628 Georgetown KY                               1     1     0    47    55   36.418
- 629 Union KY                                    0     2     0    41   111   36.327
- 630 Clarion                                     2     0     0    69    51   36.225
- 631 Crown                                       0     2     0    28    66   36.225
- 632 Morehead St                                 0     3     0    42   149   36.183
- 633 Iowa Wesleyan                               0     2     0    31   102   36.153
- 634 Kentucky Christian                          1     2     0    38    52   35.945
- 635 Lindenwood-Belleville                       2     1     0    99    80   35.543
- 636 Ave Maria                                   0     2     0    27    81   35.457
- 637 Olivet Nazarene                             0     2     0    33    57   35.385
- 638 Howard Payne                                1     1     0    70    74   35.364
- 639 Texas Southern                              0     2     0    30    92   35.301
- 640 Edward Waters                               0     3     0    75   145   35.083
- 641 Western St CO                               0     2     0    24    77   34.848
- 642 Mt St Joseph                                0     1     0    10    20   34.810
- 643 Morrisville St                              0     2     0    60    92   34.801
- 644 Eastern New Mexico                          1     1     0    83    55   34.750
- 645 Bethany KS                                  1     1     0    49    61   34.738
- 646 St Anselm                                   0     2     0    52    94   34.737
- 647 Grambling St                                0     3     0    53   118   34.720
- 648 Rockford                                    0     2     0    53    93   34.706
- 649 Luther                                      1     1     0    42    36   34.649
- 650 Colgate                                     0     3     0    70   128   34.510
- 651 WV Wesleyan                                 1     1     0    44    56   34.449
- 652 Graceland                                   1     1     0    27    41   34.432
- 653 Midland U.                                  2     0     0    52    45   33.981
- 654 Fort Lewis                                  1     1     0    23    63   33.920
- 655 Missouri S&T                                0     2     0    37   103   33.823
- 656 Western New Mexico                          0     1     0    35    38   33.786
- 657 Belhaven                                    1     2     0    60   105   33.765
- 658 McMurry                                     0     2     0    30   110   33.668
- 659 Dickinson St                                0     3     0    44   125   33.559
- 660 Morehouse                                   0     2     0    33    58   33.191
- 661 MacMurray                                   0     2     0    41    98   33.152
- 662 Waldorf                                     0     2     0    50    89   33.096
- 663 Allegheny                                   0     2     0    14    63   33.088
- 664 Briar Cliff                                 0     2     0    24    86   32.759
- 665 Menlo                                       1     2     0    42    91   32.506
- 666 Concord                                     2     0     0    54    13   32.502
- 667 Sterling                                    1     1     0    55    65   32.394
- 668 Mercyhurst                                  1     1     0    65    24   32.065
- 669 Ottawa                                      1     1     0    44    31   32.058
- 670 Langston                                    0     2     0    10    55   32.031
- 671 St Mary KS                                  1     1     0    76    71   31.945
- 672 Kutztown                                    0     2     0    48    84   31.366
- 673 Bluefield                                   0     2     0    41   113   31.131
- 674 Southwestern KS                             1     1     0    47    66   31.117
- 675 Castleton St                                1     1     0    42    74   31.115
- 676 Campbell                                    1     2     0    73   103   30.933
- 677 Cumberland TN                               0     2     0    17   104   30.841
- 678 Fort Valley St                              0     2     0    41    63   30.784
- 679 Eureka                                      2     0     0    47    26   30.665
- 680 LIU Post                                    2     0     0    71    28   30.628
- 681 Georgetown DC                               1     2     0    86    77   30.623
- 682 Dordt                                       1     1     0    32    34   30.341
- 683 Evangel                                     0     1     0    28    38   30.237
- 684 Virginia U-Lynchburg                        0     2     0    21   100   30.220
- 685 Wayland Baptist                             0     2     0    28    96   30.157
- 686 Indiana PA                                  2     0     0    79    20   30.142
- 687 Husson                                      0     2     0     7    69   28.200
- 688 Concordia AL                                0     2     0     6   136   28.066
- 689 St Olaf                                     1     1     0    50    38   28.014
- 690 SW Assem of God                             0     2     0    47    76   27.725
- 691 Central Methodist                           1     1     0    54    73   27.643
- 692 Culver-Stockton                             0     2     0    53    71   27.601
- 693 Berry                                       0     1     0     0    37   27.469
- 694 Dakota St                                   0     3     0    54   133   27.018
- 695 Texas College                               0     2     0    26   105   26.950
- 696 Warner U.                                   0     3     0     3   115   26.733
- 697 Chowan                                      1     1     0    67    86   26.683
- 698 Bethel TN                                   0     3     0    32    91   26.664
- 699 Lock Haven                                  1     1     0    44    43   26.661
- 700 MIT                                         2     0     0    62    26   26.304
- 701 Sul Ross St                                 0     2     0    30   106   26.250
- 702 Oklahoma Baptist                            0     3     0    66    85   26.084
- 703 Mayville St                                 1     2     0    47    64   25.973
- 704 Plymouth St                                 1     1     0    68    61   25.758
- 705 Bridgewater St MA                           1     1     0    48    60   25.157
- 706 Knox                                        0     2     0    24    63   24.980
- 707 Lenoir-Rhyne                                1     1     0    44    36   24.582
- 708 Bethel KS                                   1     1     0    72    62   23.143
- 709 Southern Conn St                            0     2     0    32    54   22.736
- 710 Missouri Valley                             0     1     0     6    20   21.455
- 711 Virginia-Wise                               0     2     0    28    93   20.586
- 712 Pomona-Pitzer                               0     2     0    32    63   20.579
- 713 Lincoln PA                                  1     1     0    36    73   20.283
- 714 Alderson-Broaddus                           1     1     0    70    88   20.105
- 715 Northwestern MN                             0     2     0    27    63   19.629
- 716 Mount Ida                                   1     1     0    47    57   19.171
- 717 Millersville                                0     2     0    23    96   18.477
- 718 William Paterson                            1     1     0    45    60   17.568
- 719 Haskell                                     0     3     0    43   134   17.091
- 720 West Virginia St                            0     2     0    16    67   16.830
- 721 Worcester St                                2     0     0    49    20   16.598
- 722 Davidson                                    0     2     0    24    76   16.062
- 723 Pace                                        0     2     0    28    96   15.012
- 724 Cheyney                                     0     2     0    28    82   14.341
- 725 UMass-Dartmouth                             0     1     0    20    21   14.164
- 726 Becker                                      1     1     0    35    67   12.575
- 727 King's PA                                   0     1     0    19    21   12.313
- 728 WPI                                         1     1     0    62    43   11.292
- 729 Fitchburg St                                1     1     0    53    54    7.955
- 730 Curry                                       0     2     0    47    68    3.295
- 731 Anna Maria                                  1     1     0    61    83    2.982
- 732 Maine Maritime                              0     1     0    49    55   -2.241
+   1 Miami FL                                    3     0     0   132    29   85.418
+   2 Oregon                                      3     0     0   184    27   85.384
+   3 Florida St                                  3     0     0   157    26   85.222
+   4 Arizona                                     3     0     0   131    26   81.416
+   5 Florida                                     2     1     0    71    44   80.529
+   6 Oklahoma St                                 3     0     0   136    41   80.264
+   7 Clemson                                     3     0     0   116    62   80.140
+   8 UCLA                                        3     0     0   158    54   79.853
+   9 Missouri                                    3     0     0   141    65   79.817
+  10 Louisville                                  4     0     0   192    27   79.792
+  11 Alabama                                     3     0     0   115    58   79.763
+  12 Washington                                  3     0     0   128    30   79.543
+  13 Navy                                        2     0     0    92    42   78.874
+  14 LSU                                         4     0     0   173    78   78.396
+  15 Georgia                                     2     1     0   121    89   77.440
+  16 Baylor                                      3     0     0   209    23   77.065
+  17 Georgia Tech                                3     0     0   136    34   76.963
+  18 Central Florida                             3     0     0   110    38   76.747
+  19 Auburn                                      3     1     0   114    88   75.322
+  20 Texas Tech                                  4     0     0   155    53   74.269
+  21 Pittsburgh                                  2     1     0   120   123   74.102
+  22 Indiana                                     2     2     0   178   131   73.899
+  23 Washington St                               3     1     0   124    48   73.776
+  24 South Carolina                              2     1     0    92    76   73.675
+  25 Nebraska                                    3     1     0   173   108   73.008
+  26 Stanford                                    3     0     0   110    61   72.821
+  27 Ohio U.                                     3     1     0   106   101   72.644
+  28 Texas-San Antonio                           2     2     0   101   120   72.641
+  29 Oklahoma                                    3     0     0   101    27   72.540
+  30 Virginia Tech                               3     1     0    99    69   72.497
+  31 Texas A&M                                   3     1     0   201   121   72.414
+  32 Toledo                                      2     2     0   100   100   72.362
+  33 Penn State                                  3     1     0   133    58   72.275
+  34 Illinois                                    2     1     0   111    85   72.160
+  35 Virginia                                    2     1     0    78    75   72.113
+  36 John Carroll                                2     0     0    68     7   72.021
+  37 Tennessee                                   2     2     0   128   110   71.668
+  38 Maryland                                    4     0     0   159    41   71.188
+  39 Fresno St                                   3     0     0   134   116   71.125
+  40 Southern Cal                                3     1     0    89    44   70.765
+  41 Mississippi                                 3     0     0   114    71   70.597
+  42 Ohio State                                  4     0     0   210    61   69.997
+  43 Northwestern                                4     0     0   165    95   69.699
+  44 Minnesota                                   4     0     0   167    80   69.610
+  45 Mississippi St                              2     2     0   136    59   69.482
+  46 Utah                                        3     1     0   168    97   69.467
+  47 North Dakota St                             3     0     0   131    31   69.411
+  48 TCU                                         1     2     0    75    74   69.160
+  49 UW-Whitewater                               2     0     0    72    21   69.035
+  50 Arizona St                                  2     1     0   115    72   69.024
+  51 Duke                                        2     2     0   142   110   69.019
+  52 Eastern Washington                          2     1     0   113    93   69.007
+  53 North Texas                                 2     2     0   116   105   68.880
+  54 North Carolina                              1     2     0    70    75   68.771
+  55 Bowling Green                               3     1     0   133    78   68.764
+  56 Nevada                                      2     2     0    94   136   68.745
+  57 Northern Illinois                           3     0     0   118   101   68.701
+  58 Marshall                                    2     2     0   159    77   68.691
+  59 Oregon St                                   3     1     0   164   141   68.308
+  60 Wyoming                                     3     1     0   167    77   67.929
+  61 St John Fisher                              2     0     0    70    21   67.773
+  62 Montana                                     3     0     0   132    37   67.711
+  63 Rutgers                                     3     1     0   145    86   67.709
+  64 Boise St                                    2     2     0   151   113   67.645
+  65 Houston                                     3     0     0   115    52   67.626
+  66 Michigan                                    4     0     0   152    84   67.603
+  67 North Carolina St                           2     1     0    77    61   67.365
+  68 Brigham Young                               1     2     0    69    60   67.154
+  69 Washburn                                    3     0     0   160    33   66.937
+  70 New Mexico                                  1     2     0    82   105   66.561
+  71 Coe                                         3     0     0    75    29   66.378
+  72 Eastern Illinois                            3     1     0   176   123   66.238
+  73 Wisconsin                                   3     1     0   164    42   66.140
+  74 Colorado                                    2     0     0    79    51   65.994
+  75 Mary Hardin-Baylor                          3     0     0   100    27   65.970
+  76 Towson                                      4     0     0   166    49   65.944
+  77 East Carolina                               2     1     0    93    66   65.893
+  78 Utah St                                     2     2     0   162    73   65.889
+  79 Bethune-Cookman                             3     1     0   118    83   65.813
+  80 Northern Iowa                               3     0     0    99    41   65.696
+  81 Cincinnati                                  3     1     0   139    61   65.656
+  82 Syracuse                                    2     2     0   150    88   65.609
+  83 South Dakota St                             3     1     0   144   127   65.566
+  84 Vanderbilt                                  2     2     0   122    84   65.538
+  85 Pittsburg St                                3     0     0   169    37   65.389
+  86 McNeese St                                  4     0     0   198    83   65.164
+  87 Henderson St                                3     0     0   201    59   65.145
+  88 Coastal Carolina                            4     0     0   163    97   65.047
+  89 Texas                                       2     2     0   131   112   64.658
+  90 Arkansas                                    3     1     0   113    66   64.545
+  91 Rice                                        1     2     0    80    97   64.447
+  92 Southern Utah                               3     1     0   105    90   64.368
+  93 Ball St                                     3     1     0   169    96   64.344
+  94 Boston College                              2     1     0    55    59   64.344
+  95 Notre Dame                                  3     1     0   106    84   64.279
+  96 West Chester                                3     0     0   149    58   64.079
+  97 NW Missouri St                              3     0     0   122    62   63.767
+  98 UNLV                                        2     2     0   105   137   63.639
+  99 Middle Tennessee St                         3     1     0   124   114   63.544
+ 100 South Alabama                               2     1     0    93    85   63.483
+ 101 Wabash                                      2     0     0   119    13   63.476
+ 102 San José St                                 1     2     0    61    77   63.404
+ 103 Missouri Western                            3     0     0   120    45   63.157
+ 104 Iowa                                        3     1     0   141    68   63.120
+ 105 Gardner-Webb                                3     1     0    43    86   63.115
+ 106 Chapman                                     1     0     0    57    14   62.994
+ 107 California                                  1     2     0   101   126   62.912
+ 108 Kansas St                                   2     2     0   127    89   62.908
+ 109 South Carolina St                           2     2     0   124    85   62.698
+ 110 Dartmouth                                   1     0     0    30    23   62.452
+ 111 Tulsa                                       1     2     0    57   112   62.258
+ 112 Memphis                                     1     2     0    60    52   62.169
+ 113 SMU                                         1     2     0    67   113   62.163
+ 114 UTEP                                        1     2     0    90    95   62.138
+ 115 Ouachita Baptist                            2     0     0    73    41   62.124
+ 116 Emporia St                                  3     0     0   131    72   62.027
+ 117 Southern Illinois                           2     2     0   138   111   61.915
+ 118 Southern Arkansas                           2     1     0   120    89   61.791
+ 119 West Virginia                               2     2     0    72    77   61.662
+ 120 Ohio Dominican                              3     0     0   108    57   61.627
+ 121 Minn St-Mankato                             3     0     0   123    64   61.356
+ 122 Louisiana-Monroe                            2     2     0    76   133   61.336
+ 123 Kent St                                     1     3     0    52   130   61.301
+ 124 Tennessee-Martin                            2     1     0    69   107   61.190
+ 125 Fordham                                     4     0     0   160    86   61.177
+ 126 Connecticut                                 0     3     0    60    89   61.131
+ 127 Christopher Newport                         3     0     0    68    23   61.065
+ 128 SE Louisiana St                             2     2     0   122   110   61.061
+ 129 Grand View                                  3     0     0    75    44   61.034
+ 130 North Carolina A&T                          2     0     0    47    31   60.994
+ 131 UNC-Pembroke                                3     0     0   104    65   60.968
+ 132 Linfield                                    2     0     0   123    35   60.936
+ 133 Monmouth IL                                 1     1     0    81    37   60.929
+ 134 Maine                                       3     1     0   103    77   60.882
+ 135 Western Kentucky                            2     2     0   137   126   60.770
+ 136 Texas St-San Marcos                         2     1     0    57    51   60.618
+ 137 SW Oklahoma St                              2     1     0    72    60   60.560
+ 138 Richmond                                    2     2     0    95    56   60.245
+ 139 Cornell                                     1     0     0    45    13   60.189
+ 140 Benedictine KS                              3     0     0   100    52   60.122
+ 141 Michigan St                                 3     1     0   115    53   60.114
+ 142 St Francis IN                               2     0     0    69    50   60.114
+ 143 California PA                               3     0     0    87    36   60.104
+ 144 UW-Oshkosh                                  2     0     0    58    33   60.034
+ 145 West Alabama                                2     1     0   129    53   59.976
+ 146 Pacific Lutheran                            2     0     0    66    38   59.960
+ 147 Michigan Tech                               2     0     0    69    21   59.876
+ 148 Colorado St                                 1     3     0    94   119   59.856
+ 149 Tulane                                      2     2     0   114   115   59.792
+ 150 Wash & Jeff                                 2     1     0   119    82   59.771
+ 151 Grand Valley St                             3     0     0   111    49   59.732
+ 152 St Cloud St                                 3     0     0   112    64   59.674
+ 153 Kansas                                      2     1     0    58    47   59.663
+ 154 West Texas A&M                              3     0     0   144    80   59.577
+ 155 Western Conn St                             2     0     0    79    10   59.492
+ 156 Missouri Southern                           3     0     0   128    62   59.468
+ 157 Tennessee St                                3     1     0   103    56   59.460
+ 158 Wofford                                     2     2     0    54   102   59.457
+ 159 San Diego St                                0     3     0    56   116   59.433
+ 160 Wheaton                                     3     0     0   152    39   59.357
+ 161 Baldwin Wallace                             1     1     0    59    48   59.339
+ 162 Buffalo                                     1     2     0    59   133   59.291
+ 163 Louisiana-Lafayette                         2     2     0   146   119   59.158
+ 164 Hawai`i                                     0     3     0    36    94   58.982
+ 165 SE Oklahoma St                              1     2     0   125   136   58.980
+ 166 Bloomsburg                                  3     0     0   119    60   58.966
+ 167 La Verne                                    1     0     0    25    20   58.940
+ 168 Carroll MT                                  4     0     0   127    34   58.811
+ 169 Buffalo St                                  2     1     0    97   123   58.789
+ 170 Ferris St                                   2     1     0   100   112   58.788
+ 171 Kentucky                                    1     2     0    80    69   58.722
+ 172 Carson-Newman                               3     0     0   123    66   58.673
+ 173 Sam Houston St                              3     1     0   209   103   58.658
+ 174 Gannon                                      2     1     0   115   116   58.552
+ 175 Florida Atlantic                            1     3     0    82   117   58.456
+ 176 Arkansas St                                 2     2     0   119   114   58.392
+ 177 Illinois St                                 1     2     0    83   125   58.381
+ 178 North Dakota                                1     2     0   114   100   58.375
+ 179 Idaho                                       0     4     0    51   169   58.277
+ 180 Villanova                                   1     2     0    73    57   58.269
+ 181 Wake Forest                                 2     2     0    85    63   58.228
+ 182 Washington U.                               1     2     0    17    34   58.059
+ 183 Old Dominion                                2     2     0   183   176   58.023
+ 184 Minnesota-Duluth                            2     1     0    86    47   57.995
+ 185 Iowa St                                     0     2     0    41    55   57.994
+ 186 Central Missouri                            1     2     0    94    82   57.900
+ 187 Central Arkansas                            2     2     0   122    82   57.890
+ 188 Morningside                                 3     0     0   183    52   57.835
+ 189 Winston-Salem St                            2     1     0   118    46   57.806
+ 190 East Central OK                             1     2     0    79    96   57.777
+ 191 Colorado St-Pueblo                          3     0     0   130    67   57.685
+ 192 Wesley                                      2     1     0    70    83   57.669
+ 193 Wesleyan                                    1     0     0    52     9   57.535
+ 194 Johns Hopkins                               3     0     0   114    35   57.534
+ 195 Idaho St                                    2     1     0    69    73   57.506
+ 196 Akron                                       1     3     0    96   134   57.481
+ 197 Troy                                        2     2     0   141   137   57.420
+ 198 Alabama-Birmingham                          1     2     0   100   118   57.386
+ 199 Weber St                                    1     3     0    69   223   57.311
+ 200 Purdue                                      1     3     0    61   128   57.209
+ 201 Furman                                      1     2     0    70    83   57.075
+ 202 Drake                                       1     2     0    61    80   57.059
+ 203 Northern Michigan                           1     1     0    64    61   56.992
+ 204 Mount Union                                 2     0     0    67    27   56.891
+ 205 Harding                                     1     1     0    92    27   56.879
+ 206 Stephen F. Austin                           2     2     0   155   162   56.877
+ 207 Portland St                                 3     1     0   171    70   56.871
+ 208 Northern Arizona                            2     1     0    43    61   56.761
+ 209 Middlebury                                  1     0     0    27     5   56.665
+ 210 Arkansas Tech                               2     1     0   104    45   56.537
+ 211 Florida Int'l                               0     4     0    23   187   56.520
+ 212 Murray St                                   2     2     0   145   158   56.461
+ 213 St Ambrose                                  1     1     0    85    75   56.415
+ 214 Arkansas-Monticello                         2     1     0    86   100   56.397
+ 215 Brockport St                                1     1     0    70    44   56.360
+ 216 Air Force                                   1     3     0   101   163   56.360
+ 217 Butler                                      2     2     0   117   137   56.317
+ 218 Eastern Kentucky                            2     2     0   133   125   56.294
+ 219 William & Mary                              3     1     0   102    37   56.196
+ 220 Colby                                       1     0     0    31     8   56.167
+ 221 Temple                                      0     3     0    48    80   56.165
+ 222 Stevenson                                   3     0     0    98    49   56.155
+ 223 Appalachian St                              1     2     0    58    75   56.135
+ 224 Central Michigan                            1     3     0    71   149   56.128
+ 225 Chattanooga                                 2     1     0   105    55   56.127
+ 226 Tarleton St                                 2     0     0    65    58   56.104
+ 227 Benedict                                    2     1     0    78    82   56.025
+ 228 Bethel MN                                   2     0     0    77    31   55.935
+ 229 Saginaw Valley St                           2     1     0   118    99   55.912
+ 230 Emory & Henry                               3     0     0   137    56   55.873
+ 231 Augsburg                                    2     0     0    70    33   55.726
+ 232 Samford                                     2     2     0   110   106   55.709
+ 233 Montana St                                  2     2     0   136   107   55.672
+ 234 Louisiana Tech                              1     3     0    66    91   55.643
+ 235 Friends                                     2     1     0    70    49   55.576
+ 236 Amherst                                     1     0     0    23     7   55.480
+ 237 Central IA                                  1     1     0    58    37   55.385
+ 238 St Norbert                                  2     1     0    75    54   55.236
+ 239 Cal Poly SLO                                1     2     0    80    91   55.203
+ 240 Western Illinois                            2     2     0    95    82   55.187
+ 241 Shepherd                                    3     0     0    88    28   55.094
+ 242 Delaware Valley                             3     0     0    97    61   55.044
+ 243 New Mexico St                               0     4     0    62   201   55.027
+ 244 Eastern Michigan                            1     3     0    71   148   55.002
+ 245 Liberty                                     2     2     0   114    72   54.998
+ 246 Nebraska-Kearney                            0     3     0    53   123   54.903
+ 247 TAMU-Kingsville                             2     0     0    73    46   54.877
+ 248 Pacific OR                                  3     0     0   115    61   54.851
+ 249 Colorado Mines                              2     1     0   158    55   54.790
+ 250 Lake Erie                                   1     2     0   117   109   54.676
+ 251 Harvard                                     1     0     0    42    20   54.671
+ 252 Northwestern St                             2     2     0   115   149   54.662
+ 253 Georgia Southern                            2     1     0   156    56   54.574
+ 254 Bryant                                      2     1     0    73    58   54.526
+ 255 Central Oklahoma                            0     3     0   100   171   54.469
+ 256 Chadron St                                  2     1     0   101    92   54.383
+ 257 Gallaudet                                   3     0     0   106    47   54.281
+ 258 Simon Fraser                                2     0     0    62    41   54.205
+ 259 Sacramento St                               1     3     0    84   159   54.047
+ 260 Youngstown St                               3     1     0   171    95   54.028
+ 261 Ohio Wesleyan                               2     0     0    57    33   53.737
+ 262 Southern Miss                               0     3     0    31   102   53.732
+ 263 Trinity CT                                  1     0     0    28    17   53.725
+ 264 Indiana St                                  1     2     0   119   100   53.690
+ 265 Concordia-St Paul                           2     1     0    49    48   53.674
+ 266 Siena Heights                               2     1     0    86    55   53.438
+ 267 Hillsdale                                   1     2     0    80    75   53.385
+ 268 Mary                                        2     1     0    72    71   53.352
+ 269 Abilene Christian                           3     1     0   213    82   53.306
+ 270 Hobart                                      2     0     0    64    28   53.294
+ 271 James Madison                               3     1     0   129    76   53.207
+ 272 SW Minnesota St                             2     1     0    99    90   53.156
+ 273 Doane                                       2     1     0   117    58   53.152
+ 274 Charleston Southern                         4     0     0   105    66   53.046
+ 275 Whitworth                                   2     1     0    94    49   53.010
+ 276 Benedictine IL                              2     1     0    91    81   53.001
+ 277 Hampden-Sydney                              2     1     0    98    36   52.941
+ 278 Montana-Western                             3     0     0   122    77   52.883
+ 279 Chicago                                     3     0     0    50    13   52.850
+ 280 Concordia NE                                3     0     0    91    50   52.805
+ 281 SE Missouri St                              0     3     0    39   112   52.770
+ 282 Juniata                                     3     0     0   116    50   52.708
+ 283 Centre                                      3     0     0    97    73   52.681
+ 284 Widener                                     2     1     0    77    61   52.632
+ 285 Salisbury                                   1     2     0    65    57   52.585
+ 286 North Central                               2     0     0    82    38   52.577
+ 287 TAMU-Commerce                               2     1     0   124   105   52.554
+ 288 Virginia St                                 2     1     0    84    58   52.532
+ 289 Ursinus                                     3     0     0    89    52   52.527
+ 290 Trine                                       3     0     0    82    51   52.505
+ 291 Edinboro                                    1     2     0    77   101   52.464
+ 292 Northeastern St OK                          0     3     0    23   110   52.459
+ 293 Northern Colorado                           1     3     0    81   112   52.423
+ 294 Adams St                                    3     0     0    86    24   52.401
+ 295 Redlands                                    0     2     0    27    66   52.381
+ 296 Indianapolis                                2     1     0    75    60   52.354
+ 297 Army                                        1     3     0    73   111   52.353
+ 298 Findlay                                     1     2     0   116   109   52.345
+ 299 McKendree                                   2     1     0    75   127   52.337
+ 300 North Greenville                            3     0     0   102    84   52.307
+ 301 Lamar                                       2     2     0   145    86   52.280
+ 302 Stony Brook                                 1     2     0    53    61   52.252
+ 303 Geneva                                      3     0     0   147    64   52.159
+ 304 Fort Hays St                                0     3     0    44   146   52.119
+ 305 Jacksonville St                             4     0     0   128    82   52.106
+ 306 Cal Lutheran                                0     2     0    38    83   52.046
+ 307 RPI                                         3     0     0    67    36   51.966
+ 308 Tuskegee                                    2     1     0    55    55   51.962
+ 309 Massachusetts                               0     4     0    28   130   51.920
+ 310 Franklin                                    1     2     0   103    68   51.766
+ 311 Taylor                                      2     1     0   122    76   51.751
+ 312 Thomas More                                 2     0     0    51     0   51.735
+ 313 Midwestern St                               1     1     0    62    55   51.731
+ 314 Azusa Pacific                               2     1     0    81    60   51.686
+ 315 New Haven                                   2     1     0   149    71   51.675
+ 316 Hope                                        3     0     0   119    35   51.618
+ 317 Lehigh                                      3     0     0   108    97   51.568
+ 318 North Carolina Central                      2     2     0    80   113   51.516
+ 319 Upper Iowa                                  2     1     0    90    54   51.477
+ 320 Randolph-Macon                              2     1     0    83    72   51.397
+ 321 Newberry                                    3     0     0    85    51   51.327
+ 322 Rhodes                                      2     1     0    67    40   51.317
+ 323 The Citadel                                 1     3     0   125   133   51.281
+ 324 Delaware                                    3     1     0   149   116   51.202
+ 325 Denison                                     2     1     0    81    90   51.192
+ 326 Jackson St                                  2     2     0    88    90   51.125
+ 327 Rocky Mountain                              3     1     0   142    97   51.103
+ 328 South Dakota                                1     2     0    40    60   51.101
+ 329 Cornell IA                                  1     1     0    52    56   51.089
+ 330 Slippery Rock                               2     1     0   136   112   51.033
+ 331 Truman St                                   2     1     0    79    91   50.967
+ 332 Missouri St                                 0     4     0    82   109   50.941
+ 333 Baker                                       2     1     0    94   106   50.925
+ 334 Shaw                                        2     1     0    97    76   50.845
+ 335 Albright                                    1     2     0    65    58   50.639
+ 336 Stonehill                                   2     1     0   106   103   50.639
+ 337 Elon                                        1     3     0    80   131   50.589
+ 338 Peru St                                     3     0     0   121    49   50.546
+ 339 Presbyterian                                1     2     0    69    76   50.534
+ 340 Grove City                                  2     1     0    89    50   50.528
+ 341 Tennessee Tech                              2     2     0   114   123   50.521
+ 342 Wooster                                     1     1     0    60    79   50.409
+ 343 East Texas Baptist                          2     0     0   108    44   50.304
+ 344 Fayetteville St                             1     2     0    73    74   50.300
+ 345 Nicholls St                                 2     2     0    79   181   50.275
+ 346 Lindenwood                                  2     1     0    87    96   50.213
+ 347 Mercer                                      3     0     0   144    37   50.183
+ 348 South Florida                               0     3     0    37   102   50.080
+ 349 Miami OH                                    0     3     0    21   107   49.986
+ 350 Puget Sound                                 1     1     0    56    90   49.955
+ 351 Central Washington                          1     2     0    48    49   49.924
+ 352 Valley City St                              3     1     0   188    96   49.801
+ 353 Alfred                                      1     1     0    54    34   49.705
+ 354 Angelo St                                   1     2     0    96   109   49.703
+ 355 Johnson C. Smith                            3     0     0   127    80   49.492
+ 356 Rowan                                       1     1     0    56    54   49.428
+ 357 Wayne St MI                                 1     2     0    79   112   49.406
+ 358 Wartburg                                    2     1     0   102    47   49.357
+ 359 Colorado Mesa                               1     2     0    58    56   49.324
+ 360 Florida A&M                                 1     3     0    54   140   49.290
+ 361 Trinity Int'l                               3     0     0   146    45   49.272
+ 362 Gustavus Adolphus                           1     1     0    44    40   49.173
+ 363 St Xavier                                   2     1     0    92    85   49.131
+ 364 Huntingdon AL                               2     0     0    69    34   49.064
+ 365 Bluffton                                    1     2     0    77   110   49.049
+ 366 Augustana SD                                2     1     0    82    51   48.991
+ 367 New Hampshire                               1     1     0    74    47   48.977
+ 368 FDU-Florham                                 1     1     0    40    67   48.962
+ 369 Maryville                                   2     1     0   100    57   48.891
+ 370 Washington and Lee                          1     1     0    42    50   48.824
+ 371 Tabor                                       3     0     0    76    38   48.808
+ 372 Southern U.                                 2     2     0   106   183   48.793
+ 373 Lycoming                                    2     1     0    88    62   48.734
+ 374 Bridgewater VA                              3     0     0   146    41   48.694
+ 375 Wittenberg                                  1     1     0    69    49   48.644
+ 376 Monmouth NJ                                 1     3     0    85   129   48.642
+ 377 Minot St                                    1     2     0    44    83   48.620
+ 378 Clarion                                     3     0     0    89    64   48.613
+ 379 Walsh                                       1     2     0    66    78   48.601
+ 380 UW-Platteville                              3     0     0   143    75   48.586
+ 381 Cortland St                                 1     1     0    54    56   48.497
+ 382 Urbana                                      1     2     0    93    98   48.480
+ 383 Incarnate Word                              2     2     0   121   110   48.458
+ 384 Occidental                                  1     1     0    65    92   48.420
+ 385 Delta St                                    2     1     0    98    93   48.411
+ 386 Dayton                                      2     1     0    54    62   48.393
+ 387 Sioux Falls                                 1     2     0    62    86   48.327
+ 388 Bucknell                                    1     1     0    40    59   48.203
+ 389 Adrian                                      2     1     0    72    20   48.198
+ 390 Pennsylvania                                1     0     0    27    21   48.113
+ 391 Lindsey Wilson                              4     0     0   148   108   48.011
+ 392 Tiffin                                      0     3     0    59   114   47.980
+ 393 Missouri S&T                                1     2     0    64   117   47.958
+ 394 Illinois College                            2     0     0    91    26   47.864
+ 395 Western Michigan                            0     4     0    56   150   47.830
+ 396 Montana Tech                                1     2     0    52    57   47.816
+ 397 Methodist                                   2     1     0    96   115   47.810
+ 398 Bowie St                                    2     1     0    99    96   47.782
+ 399 Kalamazoo                                   2     1     0    82    72   47.782
+ 400 Otterbein                                   1     1     0    30    42   47.782
+ 401 Albany St GA                                1     2     0    71    58   47.674
+ 402 Western Carolina                            1     3     0    78   141   47.657
+ 403 Catholic                                    2     0     0    67    23   47.647
+ 404 Brown                                       1     0     0    45     7   47.642
+ 405 Southern Oregon                             1     3     0   193   156   47.640
+ 406 Howard                                      1     2     0    70   126   47.617
+ 407 Southern Nazarene                           0     3     0    41   180   47.586
+ 408 Northwestern IA                             2     1     0   131   113   47.574
+ 409 Carleton                                    2     0     0    49    27   47.543
+ 410 Shenandoah                                  1     2     0    69    94   47.493
+ 411 Montana St-Northern                         3     1     0   111    82   47.472
+ 412 Tusculum                                    1     1     0    90    80   47.466
+ 413 Alcorn St                                   3     1     0   126   107   47.382
+ 414 Sacred Heart                                4     0     0   186    83   47.282
+ 415 Winona St                                   1     2     0   118    84   47.271
+ 416 Holy Cross                                  1     3     0    89   108   47.259
+ 417 Ithaca                                      2     0     0    48    10   47.230
+ 418 Lebanon Valley                              2     1     0    81    66   47.208
+ 419 Ottawa                                      2     1     0    85    46   47.189
+ 420 Lane                                        2     1     0    90    57   47.152
+ 421 Assumption                                  1     2     0    65    89   47.057
+ 422 Western St CO                               0     3     0    38    93   47.000
+ 423 Bemidji St                                  1     2     0    48    68   46.950
+ 424 New Mexico Highlands                        2     1     0    90   100   46.926
+ 425 NW Oklahoma St                              0     3     0    30   129   46.881
+ 426 Georgia St                                  0     4     0    68   146   46.846
+ 427 Norfolk St                                  0     3     0    18    81   46.716
+ 428 Willamette                                  2     0     0    97    62   46.703
+ 429 UW-Stevens Point                            2     0     0    80    48   46.680
+ 430 William Penn                                1     2     0    70    63   46.678
+ 431 Princeton                                   0     1     0    28    29   46.619
+ 432 Augustana IL                                2     1     0    68    58   46.580
+ 433 Marian IN                                   1     3     0    67    95   46.544
+ 434 West Georgia                                2     1     0    90    66   46.528
+ 435 Nichols                                     1     1     0    35    71   46.516
+ 436 Rochester                                   1     1     0    41    64   46.491
+ 437 St Joseph's IN                              2     1     0   110    83   46.486
+ 438 Concordia WI                                1     2     0    78   108   46.441
+ 439 Bates                                       0     1     0    17    28   46.275
+ 440 Prairie View A&M                            2     2     0   127   129   46.221
+ 441 St John's MN                                3     0     0    54    46   46.182
+ 442 St Francis PA                               1     2     0    75    90   46.182
+ 443 Alabama St                                  2     2     0   137   114   46.179
+ 444 Texas Lutheran                              2     0     0    86    52   46.099
+ 445 UC-Davis                                    0     4     0    34   108   46.078
+ 446 Lake Forest                                 3     0     0    74    23   46.074
+ 447 UW-Stout                                    2     1     0    62    68   45.948
+ 448 Bethany WV                                  0     3     0    89   120   45.919
+ 449 South Dakota Tech                           2     1     0    90   129   45.846
+ 450 San Diego                                   1     2     0    74   115   45.818
+ 451 Millsaps                                    3     0     0   118    60   45.801
+ 452 Franklin & Marshall                         1     2     0    50    55   45.777
+ 453 William Jewell                              1     2     0    75    93   45.775
+ 454 Valdosta St                                 2     0     0    77    21   45.652
+ 455 Northern St SD                              1     2     0    83    96   45.611
+ 456 Utica                                       2     1     0    88    72   45.585
+ 457 Concordia-Moorhead                          3     0     0    93    56   45.540
+ 458 Birmingham-Southern                         3     0     0   143   104   45.522
+ 459 Austin Peay                                 0     4     0    13   163   45.475
+ 460 Hastings                                    1     2     0    66   108   45.469
+ 461 Western Oregon                              1     2     0    72    95   45.456
+ 462 Florida Tech                                1     2     0    42    81   45.440
+ 463 Concord                                     2     1     0    64    29   45.418
+ 464 Reinhardt                                   2     2     0   129   128   45.185
+ 465 Beloit                                      1     2     0    52    97   45.180
+ 466 SW Baptist                                  0     3     0    71   134   45.103
+ 467 Olivet                                      3     0     0    96    44   45.068
+ 468 Kutztown                                    0     3     0    60   115   45.045
+ 469 Hampton                                     0     4     0    60   153   45.044
+ 470 St Thomas                                   2     1     0   101    34   45.017
+ 471 Shippensburg                                1     2     0    79   122   44.997
+ 472 Elmhurst                                    1     2     0    42    35   44.922
+ 473 North Alabama                               1     2     0    97    68   44.922
+ 474 UNC-Charlotte                               2     2     0   119    88   44.799
+ 475 McMurry                                     0     3     0    62   162   44.781
+ 476 Columbia                                    0     1     0     7    52   44.739
+ 477 Ashland                                     0     3     0    38    78   44.712
+ 478 Gettysburg                                  1     2     0   101   119   44.637
+ 479 Bentley                                     2     1     0    69    60   44.569
+ 480 Hamilton                                    0     1     0     7    23   44.520
+ 481 Rhode Island                                1     3     0    45   108   44.383
+ 482 Earlham                                     1     2     0    74   102   44.378
+ 483 Catawba                                     2     1     0    52    52   44.314
+ 484 Hartwick                                    3     0     0   129    60   44.231
+ 485 Robert Morris PA                            1     2     0    51    73   44.226
+ 486 Kean                                        1     2     0    45    81   44.215
+ 487 Georgetown KY                               1     1     0    47    55   44.205
+ 488 St Francis IL                               2     1     0   123    95   44.096
+ 489 VMI                                         1     3     0    58   147   44.056
+ 490 Brevard                                     0     2     0    38    83   44.055
+ 491 Montclair St                                1     2     0    41    64   44.042
+ 492 Greenville                                  3     0     0   132    95   43.966
+ 493 Whittier                                    0     2     0    50    80   43.930
+ 494 Southwestern KS                             2     1     0    71    80   43.926
+ 495 New Jersey                                  0     2     0    32    46   43.876
+ 496 Nebraska Wesleyan                           1     2     0    50    65   43.875
+ 497 Lincoln MO                                  1     2     0    79   117   43.855
+ 498 Williams                                    0     1     0     8    31   43.833
+ 499 Cumberlands KY                              3     0     0   134    48   43.810
+ 500 Wayne St NE                                 1     2     0    95    88   43.788
+ 501 Ripon                                       2     1     0    59    77   43.788
+ 502 Hiram                                       2     1     0    55    36   43.761
+ 503 Austin                                      0     3     0    80   111   43.684
+ 504 Jacksonville FL                             2     2     0   186   134   43.625
+ 505 Menlo                                       1     3     0    63   119   43.616
+ 506 Heidelberg                                  2     0     0   107    34   43.606
+ 507 Duquesne                                    1     2     0    72   106   43.599
+ 508 Delaware St                                 0     3     0    28   142   43.598
+ 509 Salve Regina                                1     1     0    52    24   43.561
+ 510 Yale                                        1     0     0    39    22   43.536
+ 511 Indiana PA                                  3     0     0   105    20   43.433
+ 512 Bowdoin                                     0     1     0     5    27   43.335
+ 513 Illinois Wesleyan                           2     0     0    86    24   43.290
+ 514 Southern Virginia                           2     1     0    77    84   43.277
+ 515 Rose-Hulman                                 1     2     0    63    74   43.230
+ 516 Notre Dame OH                               2     1     0    90    95   43.194
+ 517 Midland U.                                  2     1     0    66    80   43.137
+ 518 Louisiana College                           2     1     0    81    53   43.119
+ 519 Averett                                     1     2     0    48   102   43.071
+ 520 Wilkes                                      1     2     0    59    81   42.994
+ 521 Muhlenberg                                  2     1     0   138    34   42.988
+ 522 Thiel                                       0     3     0    75   118   42.943
+ 523 Oberlin                                     1     1     0    40    41   42.935
+ 524 Dubuque                                     1     2     0    87    93   42.907
+ 525 Framingham St                               2     1     0    96    73   42.888
+ 526 OK Panhandle St                             1     3     0    59   161   42.876
+ 527 Humboldt St                                 0     3     0    35   112   42.853
+ 528 Northwood                                   1     2     0    92   115   42.689
+ 529 Lenoir-Rhyne                                2     1     0    78    49   42.626
+ 530 Central Conn St                             1     3     0    99   158   42.618
+ 531 Alabama A&M                                 1     3     0    56    92   42.584
+ 532 Faulkner                                    3     1     0   181    76   42.553
+ 533 St Mary KS                                  1     2     0    92   116   42.481
+ 534 Tufts                                       0     1     0     9    52   42.465
+ 535 Waynesburg                                  3     0     0   103    72   42.435
+ 536 Bacone                                      2     2     0   106   153   42.400
+ 537 North Park                                  0     2     0    31    77   42.335
+ 538 Campbellsville                              1     2     0    57   107   42.281
+ 539 Albion                                      2     1     0    70   115   42.278
+ 540 Virginia Union                              0     3     0    35   120   42.243
+ 541 Lafayette                                   0     3     0    51    87   42.064
+ 542 Kentucky St                                 2     1     0    80    64   41.990
+ 543 Westfield St                                2     1     0    96    42   41.953
+ 544 Claremont-Mudd-Scripps                      1     1     0    40    64   41.937
+ 545 Fort Lewis                                  1     2     0    43    94   41.911
+ 546 Arkansas-Pine Bluff                         0     4     0    80   181   41.881
+ 547 Simpson                                     2     1     0   111    83   41.830
+ 548 MIT                                         2     0     0    62    26   41.825
+ 549 Hamline                                     1     1     0    58    53   41.786
+ 550 Elizabeth City St                           0     3     0    86   123   41.777
+ 551 Black Hills St                              0     3     0    83   143   41.768
+ 552 Minn St-Moorhead                            0     3     0    69   133   41.664
+ 553 Dordt                                       1     2     0    46   113   41.633
+ 554 Carthage                                    1     1     0    62    33   41.526
+ 555 Sewanee                                     1     2     0    68    82   41.376
+ 556 St Anselm                                   0     3     0    78   164   41.346
+ 557 Mars Hill                                   1     2     0    85    91   41.319
+ 558 Dickinson                                   1     2     0    45    88   41.318
+ 559 Missouri Valley                             1     1     0    39    29   41.204
+ 560 Dixie St                                    0     3     0    66   127   41.179
+ 561 Trinity TX                                  2     1     0   118    77   41.121
+ 562 Ferrum                                      0     3     0    70   143   41.118
+ 563 East Stroudsburg                            2     1     0   122    62   41.116
+ 564 Valparaiso                                  0     3     0    75   139   41.061
+ 565 Eastern New Mexico                          1     1     0    83    55   40.985
+ 566 Dakota Wesleyan                             1     2     0   118    99   40.937
+ 567 Western New Mexico                          0     2     0    42    82   40.840
+ 568 Mercyhurst                                  1     2     0    78    44   40.756
+ 569 LIU Post                                    2     1     0    95    66   40.592
+ 570 Wingate                                     1     1     0    37    37   40.566
+ 571 Robert Morris IL                            3     1     0   102    82   40.553
+ 572 Kenyon                                      1     2     0    65    52   40.480
+ 573 North Carolina Wesleyan                     0     3     0    40    71   40.472
+ 574 Mississippi Valley St                       0     4     0    59   103   40.434
+ 575 Guilford                                    1     2     0    92    99   40.411
+ 576 Pikeville                                   3     1     0   142    99   40.411
+ 577 West Liberty                                2     1     0    34    23   40.388
+ 578 Dakota St                                   1     3     0    89   161   40.251
+ 579 Morehouse                                   1     2     0    75    78   40.176
+ 580 Charleston WV                               1     2     0    62    90   40.133
+ 581 Manchester                                  0     3     0    31    98   39.966
+ 582 Marist                                      1     2     0    78    87   39.880
+ 583 Malone                                      0     3     0    67   137   39.784
+ 584 Merchant Marine                             3     0     0    69    54   39.683
+ 585 Hendrix                                     1     1     0    78    79   39.672
+ 586 Kansas Wesleyan                             1     2     0    72    90   39.620
+ 587 Savannah St                                 1     3     0    46   240   39.527
+ 588 LaGrange                                    0     2     0    62    87   39.494
+ 589 Dickinson St                                0     4     0    68   174   39.460
+ 590 McPherson                                   2     1     0   116    68   39.383
+ 591 Langston                                    0     3     0    32    97   39.377
+ 592 Lawrence                                    0     3     0    48    97   39.294
+ 593 Morgan St                                   0     4     0    53   155   39.273
+ 594 Bridgewater St MA                           2     1     0    99    80   39.270
+ 595 Morrisville St                              1     2     0    88   115   39.256
+ 596 Buena Vista                                 0     3     0    44   110   39.223
+ 597 UW-La Crosse                                0     3     0    62   103   39.081
+ 598 Mt St Joseph                                1     1     0    26    33   39.080
+ 599 Carnegie Mellon                             1     2     0    43    54   39.056
+ 600 Eureka                                      2     1     0    74    54   38.994
+ 601 Springfield                                 3     0     0   126    40   38.954
+ 602 Stetson                                     1     2     0    78    72   38.851
+ 603 Misericordia                                0     3     0    71   156   38.803
+ 604 Carroll WI                                  2     1     0    71    54   38.790
+ 605 Presentation                                2     1     0    96    93   38.786
+ 606 Jamestown                                   0     5     0    77   158   38.707
+ 607 Eastern Oregon                              0     4     0    71   198   38.645
+ 608 Endicott                                    1     2     0    83    66   38.629
+ 609 Lindenwood-Belleville                       3     1     0   148   109   38.600
+ 610 Luther                                      1     2     0    54    74   38.570
+ 611 Hardin-Simmons                              1     2     0   121   169   38.432
+ 612 Kentucky Christian                          2     2     0    76    59   38.402
+ 613 Macalester                                  2     1     0    71    40   38.283
+ 614 Albany NY                                   1     3     0    91   108   38.256
+ 615 Millikin                                    0     2     0    48    89   38.206
+ 616 Wisconsin Lutheran                          0     3     0    41    82   38.149
+ 617 Minnesota-Crookston                         0     3     0    51   156   38.093
+ 618 St Scholastica                              2     1     0    78    60   37.979
+ 619 Wilmington                                  0     2     0    41    78   37.936
+ 620 Texas Southern                              0     3     0    37   127   37.914
+ 621 Lewis & Clark                               0     3     0    84   136   37.849
+ 622 Quincy                                      0     3     0    52   146   37.769
+ 623 Point U.                                    2     1     0   109    88   37.712
+ 624 Virginia U-Lynchburg                        0     3     0    51   133   37.674
+ 625 Evangel                                     1     1     0    71    50   37.674
+ 626 St Lawrence                                 2     1     0    58    48   37.672
+ 627 Westminster PA                              0     2     0    19    54   37.659
+ 628 St Augustine's                              1     2     0    58    61   37.653
+ 629 Union NY                                    0     2     0    19    42   37.507
+ 630 Livingstone                                 1     2     0    56    96   37.388
+ 631 Lock Haven                                  2     1     0    56    53   37.280
+ 632 Defiance                                    0     3     0    48    69   37.257
+ 633 WV Wesleyan                                 1     2     0    69    90   37.200
+ 634 UW-River Falls                              0     3     0    55    83   37.162
+ 635 Grinnell                                    0     3     0    30    86   37.142
+ 636 Mass Maritime                               2     0     0    76    38   37.063
+ 637 Glenville St                                1     2     0    71    64   36.987
+ 638 Chowan                                      1     2     0   102   164   36.968
+ 639 UW-Eau Claire                               0     2     0    21    69   36.839
+ 640 Muskingum                                   0     2     0    17    58   36.826
+ 641 Frostburg St                                1     2     0    88   139   36.712
+ 642 American Int'l                              2     1     0   124    98   36.604
+ 643 Oklahoma Baptist                            0     3     0    66    85   36.549
+ 644 Greensboro                                  1     2     0    75    90   36.547
+ 645 Shorter                                     0     3     0    45   105   36.354
+ 646 Southern Conn St                            1     2     0    72    88   36.215
+ 647 Webber Int'l                                2     2     0    76    86   36.168
+ 648 Capital                                     1     1     0    42    33   36.145
+ 649 Concordia IL                                0     3     0    16   116   36.129
+ 650 Grambling St                                0     4     0    74   170   36.051
+ 651 St Olaf                                     1     2     0    79    71   35.958
+ 652 William Paterson                            1     2     0    60    86   35.945
+ 653 Houston Baptist                             1     1     0    52   102   35.841
+ 654 Loras                                       1     2     0    63   103   35.769
+ 655 Minnesota-Morris                            1     2     0   101   121   35.726
+ 656 Colgate                                     0     4     0    92   167   35.695
+ 657 Susquehanna                                 0     3     0    56    83   35.613
+ 658 Morehead St                                 0     4     0    66   205   35.529
+ 659 Cumberland TN                               1     2     0    58   135   35.352
+ 660 Mississippi College                         0     2     0    26    87   35.336
+ 661 Ohio Northern                               1     1     0    82    55   35.282
+ 662 Campbell                                    1     2     0    73   103   35.207
+ 663 Sterling                                    1     2     0    55    96   34.664
+ 664 Olivet Nazarene                             1     2     0    57    64   34.615
+ 665 MidAmerica Nazarene                         0     2     0    22    54   34.603
+ 666 Pomona-Pitzer                               0     2     0    32    63   34.589
+ 667 DePauw                                      0     2     0     7    55   34.528
+ 668 Trinity Bible                               1     2     0    44   134   34.498
+ 669 McDaniel                                    1     2     0    37   120   34.450
+ 670 Graceland                                   1     2     0    34    62   34.109
+ 671 Westminster MO                              2     1     0   100    74   34.060
+ 672 Aurora                                      0     2     0    41    86   34.004
+ 673 Hanover                                     0     3     0    26   134   33.879
+ 674 Southwestern TX                             0     3     0    38   132   33.872
+ 675 Lincoln PA                                  1     2     0    43   111   33.856
+ 676 Wagner                                      1     3     0    78   166   33.591
+ 677 Merrimack                                   1     2     0   126   143   33.577
+ 678 Anderson                                    0     2     0     7   100   33.522
+ 679 Fort Valley St                              1     2     0    53    72   33.376
+ 680 Avila                                       2     1     0   133    70   33.061
+ 681 Norwich                                     1     2     0    41    48   32.847
+ 682 Howard Payne                                2     1     0   108   108   32.826
+ 683 SUNY-Maritime                               0     2     0    26    31   32.825
+ 684 Coast Guard                                 0     3     0    44    97   32.775
+ 685 Central St OH                               0     3     0    46   122   32.679
+ 686 Knox                                        0     3     0    38    87   32.614
+ 687 Central Methodist                           2     1     0    91   109   32.543
+ 688 Edward Waters                               0     4     0    95   168   32.420
+ 689 King's PA                                   0     2     0    36    59   32.367
+ 690 Alderson-Broaddus                           1     2     0    87   133   32.250
+ 691 Georgetown DC                               1     3     0    93   122   32.248
+ 692 Kentucky Wesleyan                           0     3     0    55   130   32.148
+ 693 Becker                                      1     2     0    54   112   31.986
+ 694 Western New England                         0     2     0    47    82   31.965
+ 695 Waldorf                                     0     3     0    50   119   31.923
+ 696 Union KY                                    0     3     0    60   131   31.887
+ 697 Stillman                                    2     1     0    93    41   31.856
+ 698 Briar Cliff                                 0     3     0    31   117   31.806
+ 699 Worcester St                                2     1     0    69    71   31.770
+ 700 Miles                                       0     2     0    14    73   31.749
+ 701 Castleton St                                1     2     0    50    97   31.685
+ 702 Case Western Reserve                        1     2     0    72    71   31.645
+ 703 Berry                                       0     2     0     0    80   31.430
+ 704 Belhaven                                    1     3     0    91   146   31.333
+ 705 Rockford                                    0     3     0    60   127   31.325
+ 706 Ave Maria                                   0     2     0    27    81   31.233
+ 707 Bethel TN                                   0     4     0    32   117   30.690
+ 708 Lakeland                                    1     2     0    45    99   30.508
+ 709 St Vincent                                  0     2     0     6    80   30.503
+ 710 Apprentice                                  0     3     0    41   131   30.491
+ 711 Sul Ross St                                 0     3     0    36   139   30.394
+ 712 Fairmont St                                 1     2     0    58    87   30.178
+ 713 Moravian                                    0     3     0    35   104   29.815
+ 714 West Virginia St                            0     3     0    16    76   29.454
+ 715 Cheyney                                     0     3     0    38    94   29.428
+ 716 Northwestern MN                             1     2     0    42    71   29.330
+ 717 Culver-Stockton                             0     3     0    89   108   29.115
+ 718 Bethany KS                                  1     2     0    64   102   28.758
+ 719 Millersville                                0     3     0    26   144   28.402
+ 720 Mayville St                                 1     2     0    47    64   28.255
+ 721 Iowa Wesleyan                               0     3     0    55   143   28.049
+ 722 Davidson                                    0     3     0    46   111   28.011
+ 723 Bethel KS                                   1     2     0   103   113   27.868
+ 724 Wayland Baptist                             0     3     0    62   134   27.798
+ 725 Allegheny                                   0     3     0    14    83   27.796
+ 726 Pace                                        0     3     0    55   144   27.715
+ 727 Plymouth St                                 1     2     0    71    96   27.700
+ 728 Fitchburg St                                1     2     0    74    96   27.626
+ 729 Crown                                       0     3     0    42    90   27.598
+ 730 Maranatha Baptist                           1     2     0    82   122   27.400
+ 731 Bluefield                                   0     3     0    48   151   27.356
+ 732 Texas College                               0     3     0    60   171   26.750
+ 733 Husson                                      1     2     0    20    69   26.472
+ 734 WPI                                         1     2     0    76    74   26.448
+ 735 Virginia-Wise                               0     3     0    43   131   25.956
+ 736 Alma                                        0     3     0    30   111   25.771
+ 737 Warner U.                                   0     4     0    19   184   24.641
+ 738 Clark Atlanta                               0     3     0    21    81   24.623
+ 739 SW Assem of God                             1     2     0    66    84   24.469
+ 740 Seton Hill                                  0     3     0    36   133   24.465
+ 741 Concordia MI                                1     2     0    48   102   23.960
+ 742 Martin Luther                               1     2     0   102   105   23.881
+ 743 Marietta                                    0     2     0    29    79   23.028
+ 744 Anna Maria                                  1     1     0    61    83   22.370
+ 745 Mount Ida                                   1     2     0    47    98   22.065
+ 746 MacMurray                                   0     3     0    55   119   21.332
+ 747 Curry                                       0     2     0    47    68   20.858
+ 748 Maine Maritime                              0     2     0    67   107   18.566
+ 749 Haskell                                     0     4     0    51   153   18.355
+ 750 UMass-Dartmouth                             0     2     0    27    57   17.895
+ 751 Alfred St                                   0     3     0    21   103   16.219
+ 752 Concordia AL                                0     2     0     6   136   15.024
