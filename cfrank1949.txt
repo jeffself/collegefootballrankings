@@ -12,7 +12,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
   11 West Alabama                                1     0     0    13     6   69.532
   12 Penn State                                  1     1     0    39    56   69.310
   13 VMI                                         0     1     0    14    40   68.557
-  14 Georgetown(DC)                              1     0     0    10     7   68.309
+  14 Georgetown(DC)                              1     0     0    10     7   68.308
   15 California                                 10     1     0   319   131   67.815
   16 Notre Dame                                  2     0     0    77    13   67.225
   17 Harvard                                     0     1     0    14    54   66.717
@@ -53,24 +53,24 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
   52 Appalachian State                           1     0     0    35    18   58.499
   53 North Carolina                              2     0     0    42    34   58.238
   54 Arkansas                                    5     5     0   167   175   57.918
-  55 Cincinnati                                  7     4     0   237   181   57.871
+  55 Cincinnati                                  7     4     0   237   181   57.870
   56 Washington                                  0     1     0     7    21   57.440
-  57 Washington State                            1     1     0    49    46   57.073
+  57 Washington State                            1     1     0    49    46   57.072
   58 John Carroll(OH)                            1     0     0    38    24   56.956
   59 Illinois                                    3     4     2   149   140   56.947
   60 Baldwin-Wallace(OH)                         2     0     0    79    28   56.443
   61 Northwestern                                1     1     0    30    35   56.345
   62 Miami(FL)                                   2     0     0    41    22   56.137
-  63 Iowa                                        4     5     0   184   247   56.120
+  63 Iowa                                        4     5     0   184   247   56.119
   64 Iowa State                                  1     0     1    33    26   55.800
   65 Wyoming                                     2     1     0    66    32   55.507
-  66 San Diego State                             1     0     0    18     7   55.473
+  66 San Diego State                             1     0     0    18     7   55.472
   67 Saint Mary's(CA)                            0     1     0     7    29   55.279
   68 Fordham                                     0     2     0    12    55   55.215
   69 Lenoir-Rhyne(NC)                            1     0     0    21    20   55.068
   70 Duke                                        6     3     0   260   117   55.001
   71 North Texas                                 1     1     0    47    56   54.906
-  72 Vanderbilt                                  3     2     0    75    50   54.902
+  72 Vanderbilt                                  3     2     0    75    50   54.901
   73 Eastern Kentucky                            2     0     0    41    19   54.891
   74 Sewanee(TN)                                 0     1     0     0     6   54.601
   75 Henderson State                             1     0     0    28     6   54.580
@@ -88,7 +88,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
   87 Louisville                                  1     0     0    62     6   52.483
   88 Toledo                                      1     1     0    33    52   52.202
   89 Stetson(FL)                                 0     1     0    14    33   51.902
-  90 Texas Tech                                  1     2     0    34    56   51.568
+  90 Texas Tech                                  1     2     0    34    56   51.567
   91 Oregon State                                1     1     0    35    66   51.567
   92 South Carolina                              1     2     0    36    46   51.484
   93 Wofford(SC)                                 0     1     0     6    19   51.175
@@ -137,7 +137,7 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  136 Hillsdale(MI)                               1     0     0     8     0   43.715
  137 Atlantic Christian(NC)                      0     1     0     2     6   43.508
  138 Millsaps(MS)                                0     1     0     0    40   43.323
- 139 Niagara(NY)                                 0     1     0     7    26   42.498
+ 139 Niagara(NY)                                 0     1     0     7    26   42.497
  140 Arkansas State                              4     5     0    87   176   41.652
  141 Furman                                      0     3     0    48    81   41.086
  142 Louisiana-Lafayette                         0     1     0     7    28   40.852
@@ -170,44 +170,43 @@ Rank                                           Won  Lost  Tied    PF    PA   Rat
  169 Colorado School of Mines                    0     1     0     7    27   36.616
  170 Hope(MI)                                    1     0     0    16     6   36.549
  171 Union(TN)                                   0     1     0    12    13   36.525
- 172 Moliili Cards(HI)                           0     1     0     0    34   36.523
- 173 Missouri Valley                             0     1     0     6     7   36.413
- 174 Delta State                                 0     1     0     6     7   36.413
+ 172 Missouri Valley                             0     1     0     6     7   36.413
+ 173 Delta State                                 0     1     0     6     7   36.413
+ 174 Moiliili Cards(HI)                          0     2     0     6    93   36.184
  175 Cal Poly-SLO                                0     1     0     7    20   36.054
  176 Saint Josephs(IN)                           0     1     0    14    28   36.027
  177 Portland(OR)                                0     1     0    21    49   35.855
  178 Saint Louis                                 0     1     0     0    35   35.838
- 179 Moiliili Cards(HI)                          0     1     0     6    59   35.817
- 180 Central Michigan                            3     4     0   106   109   35.660
- 181 Cherry Point Marines(NC)                    0     1     0     0    24   35.413
- 182 DePauw(IN)                                  0     1     0    13    33   34.576
- 183 Wahiawa Leilehua HS(HI)                     0     1     0     6    76   34.452
- 184 Valparaiso(IN)                              1     1     0    34    36   34.406
- 185 Northern Michigan                           1     0     0     6     0   34.191
- 186 Islanders(HI)                               0     1     0     7    98   34.114
- 187 Wooster(OH)                                 0     0     1    13    13   34.074
- 188 Akron                                       2     6     1   114   257   34.054
- 189 Maine                                       0     0     1    12    12   33.727
- 190 Connecticut                                 4     4     1   220   141   33.704
- 191 Richmond                                    0     1     0     0    67   33.314
- 192 Pittsburgh                                  0     1     0    14    48   32.809
- 193 Tennessee-Chattanooga                       0     1     0     6    42   32.452
- 194 Eastern Illinois                            0     1     0    13    47   32.396
- 195 New Mexico State                            0     3     0    39   153   31.532
- 196 Brigham Young                               0    11     0   105   372   30.665
- 197 Ouachita Baptist(AR)                        0     1     0     0    14   30.615
- 198 Indiana State                               0     1     0     6    34   30.492
- 199 Presbyterian                                0     1     0     7    69   30.206
- 200 Northern Arizona                            0     1     0     6    62   29.047
- 201 Manchester(IN)                              0     1     0     7    50   28.731
- 202 Edenton Flyers(NC)                          0     1     0     0    67   28.705
- 203 Anderson(IN)                                0     1     0     0    35   27.649
- 204 Eastern Michigan                            0     8     0    61   180   27.245
- 205 Willamette(OR)                              0     1     0     0    79   22.973
- 206 American International(MA)                  0     1     0     0    14   22.750
- 207 Rhode Island                                0     2     0     7    62   22.582
- 208 Ferris State                                0     1     0     7    33   22.383
- 209 New Hampshire                               0     1     0     7    27   21.775
- 210 Michigan Tech                               0     1     0     6    35   21.357
- 211 Findlay(OH)                                 0     1     0     0    34   17.259
- 212 Newport NTS(RI)                             0     1     0     0   125   11.574
+ 179 Central Michigan                            3     4     0   106   109   35.660
+ 180 Cherry Point Marines(NC)                    0     1     0     0    24   35.413
+ 181 DePauw(IN)                                  0     1     0    13    33   34.576
+ 182 Wahiawa Leilehua HS(HI)                     0     1     0     6    76   34.452
+ 183 Valparaiso(IN)                              1     1     0    34    36   34.406
+ 184 Northern Michigan                           1     0     0     6     0   34.191
+ 185 Islanders(HI)                               0     1     0     7    98   34.114
+ 186 Wooster(OH)                                 0     0     1    13    13   34.074
+ 187 Akron                                       2     6     1   114   257   34.054
+ 188 Maine                                       0     0     1    12    12   33.727
+ 189 Connecticut                                 4     4     1   220   141   33.703
+ 190 Richmond                                    0     1     0     0    67   33.314
+ 191 Pittsburgh                                  0     1     0    14    48   32.808
+ 192 Tennessee-Chattanooga                       0     1     0     6    42   32.452
+ 193 Eastern Illinois                            0     1     0    13    47   32.396
+ 194 New Mexico State                            0     3     0    39   153   31.532
+ 195 Brigham Young                               0    11     0   105   372   30.665
+ 196 Ouachita Baptist(AR)                        0     1     0     0    14   30.615
+ 197 Indiana State                               0     1     0     6    34   30.492
+ 198 Presbyterian                                0     1     0     7    69   30.206
+ 199 Northern Arizona                            0     1     0     6    62   29.047
+ 200 Manchester(IN)                              0     1     0     7    50   28.731
+ 201 Edenton Flyers(NC)                          0     1     0     0    67   28.705
+ 202 Anderson(IN)                                0     1     0     0    35   27.649
+ 203 Eastern Michigan                            0     8     0    61   180   27.245
+ 204 Willamette(OR)                              0     1     0     0    79   22.973
+ 205 American International(MA)                  0     1     0     0    14   22.750
+ 206 Rhode Island                                0     2     0     7    62   22.582
+ 207 Ferris State                                0     1     0     7    33   22.383
+ 208 New Hampshire                               0     1     0     7    27   21.775
+ 209 Michigan Tech                               0     1     0     6    35   21.357
+ 210 Findlay(OH)                                 0     1     0     0    34   17.259
+ 211 Newport NTS(RI)                             0     1     0     0   125   11.574
