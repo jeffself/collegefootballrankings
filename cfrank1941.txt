@@ -1,250 +1,254 @@
 Rank                                           Won  Lost  Tied    PF    PA   Rating
-   1 Oregon State                                3     0     0    59    16   73.485
-   2 Harvard                                     1     0     0    20     6   73.214
-   3 Washington                                  1     0     0    13     6   72.521
-   4 Washington State                            2     0     0    39     6   71.632
-   5 Vanderbilt                                  4     0     0   128    22   71.518
-   6 Minnesota                                   3     0     0    75    19   71.317
-   7 Santa Clara                                 2     0     0    20     0   71.176
-   8 Oregon                                      2     0     0    40    14   71.172
-   9 Navy                                        1     0     0    14     6   70.998
-  10 Pennsylvania                                2     0     0    69    13   70.226
-  11 Duke                                        9     1     0   362    67   69.392
-  12 Youngstown State                            1     0     0    19     0   68.889
-  13 Mississippi State                           3     0     1    34     7   68.103
-  14 Alabama                                     9     2     0   263    85   68.083
-  15 SMU                                         3     0     0    48    14   66.969
-  16 Baldwin-Wallace(OH)                         1     0     0    14     0   66.881
-  17 Mississippi                                 2     0     1    45    26   66.769
-  18 Michigan                                    6     1     1   147    41   66.168
-  19 Georgia                                     9     1     1   319    85   65.916
-  20 Missouri                                    5     0     0   159    25   65.620
-  21 Notre Dame                                  4     0     1   126    27   65.170
-  22 Texas                                       3     0     1   123    27   64.678
-  23 California                                  4     5     0   107    71   64.502
-  24 Ohio State                                  1     0     1    32    27   64.348
-  25 Tennessee                                   4     2     0    70    54   64.288
-  26 Texas A&M                                   2     1     0    76    29   64.240
-  27 Wisconsin                                   2     0     0    50    25   63.861
-  28 Rutgers                                     2     0     0    52     7   63.802
-  29 Oklahoma                                    3     0     0   109     0   63.283
-  30 Amherst(MA)                                 1     0     0    20     0   62.985
-  31 Norwich(VT)                                 1     0     0    20     0   62.985
-  32 Oklahoma State                              1     0     0    41    14   62.900
-  33 Tulane                                      2     2     0    67    45   62.669
-  34 Army                                        5     3     1   105    87   62.556
-  35 TCU                                         3     1     0    78    66   62.315
-  36 LSU                                         4     4     2   119    93   62.105
-  37 Northwestern                                3     1     0   105    31   61.944
-  38 Holy Cross                                  1     1     0    32    27   61.114
-  39 Colgate                                     0     1     0    14    27   61.031
-  40 Western Reserve(OH)                         3     0     0    68    19   60.287
+   1 Oregon State                                3     0     0    59    16   73.540
+   2 Harvard                                     1     0     0    20     6   73.221
+   3 Washington                                  1     0     0    13     6   72.527
+   4 Washington State                            2     0     0    39     6   71.636
+   5 Vanderbilt                                  4     0     0   128    22   71.524
+   6 Minnesota                                   3     0     0    75    19   71.377
+   7 Santa Clara                                 2     0     0    20     0   71.189
+   8 Oregon                                      2     0     0    40    14   71.176
+   9 Navy                                        1     0     0    14     6   71.006
+  10 Pennsylvania                                2     0     0    69    13   70.239
+  11 Youngstown State                            1     0     0    19     0   69.971
+  12 Duke                                        9     1     0   362    67   69.477
+  13 Mississippi State                           3     0     1    34     7   68.166
+  14 Alabama                                     9     2     0   263    85   68.131
+  15 Baldwin-Wallace(OH)                         1     0     0    14     0   67.961
+  16 SMU                                         3     0     0    48    14   67.015
+  17 Mississippi                                 2     0     1    45    26   66.827
+  18 Michigan                                    6     1     1   147    41   66.227
+  19 Georgia                                     9     1     1   319    85   65.961
+  20 Missouri                                    5     0     0   159    25   65.645
+  21 Notre Dame                                  4     0     1   126    27   65.183
+  22 Texas                                       3     0     1   123    27   64.730
+  23 California                                  4     5     0   107    71   64.512
+  24 Tennessee                                   4     2     0    70    54   64.428
+  25 Ohio State                                  1     0     1    32    27   64.420
+  26 Texas A&M                                   2     1     0    76    29   64.272
+  27 Wisconsin                                   2     0     0    50    25   63.913
+  28 Rutgers                                     2     0     0    52     7   63.751
+  29 Oklahoma                                    3     0     0   109     0   63.299
+  30 Oklahoma State                              1     0     0    41    14   62.832
+  31 Tulane                                      2     2     0    67    45   62.804
+  32 Norwich(VT)                                 1     0     0    20     0   62.749
+  33 Amherst(MA)                                 1     0     0    20     0   62.749
+  34 Army                                        5     3     1   105    87   62.567
+  35 TCU                                         3     1     0    78    66   62.348
+  36 LSU                                         4     4     2   119    93   62.195
+  37 Northwestern                                3     1     0   105    31   62.007
+  38 Western Reserve(OH)                         3     0     0    68    19   61.366
+  39 Holy Cross                                  1     1     0    32    27   61.314
+  40 Colgate                                     0     1     0    14    27   61.112
   41 Alfred(NY)                                  1     0     0    14     0   60.175
   42 RPI                                         1     0     0    21     6   60.123
-  43 Rice                                        2     1     0    49    53   59.783
-  44 Drexel Institute(PA)                        1     0     0    19     6   59.467
-  45 Auburn                                      4     5     1   123   115   59.411
-  46 Villanova                                   2     1     0    20    19   59.075
-  47 Boston College                              7     3     0   235   106   59.066
-  48 Rhode Island                                2     0     0    40     6   59.000
-  49 Michigan State                              5     3     1   150    77   58.895
-  50 UCLA                                        1     1     0    37    54   58.674
-  51 Georgia Tech                                3     6     0    82   130   58.320
-  52 Montana                                     2     0     0    36     7   57.795
-  53 Washington & Jefferson(PA)                  1     0     0    14     6   57.583
-  54 Tufts(MA)                                   1     0     0    14     7   57.488
-  55 Dayton                                      3     0     0    26     0   57.206
-  56 Murray State                                1     0     0    31     6   57.178
-  57 Wesleyan(CT)                                1     0     0     7     0   57.030
-  58 Coast Guard                                 1     0     0     7     0   57.030
-  59 Clemson                                     7     2     0   233    90   56.723
-  60 Florida                                     4     6     0   149    97   56.491
-  61 Detroit                                     2     1     0    65    16   56.357
-  62 Purdue                                      1     1     1     7    13   56.346
-  63 Kentucky                                    5     4     0   151   154   56.233
-  64 Arkansas                                    3     7     0   118   149   56.212
-  65 Georgetown(DC)                              1     1     0    32    14   56.211
+  43 Rice                                        2     1     0    49    53   59.828
+  44 Dayton                                      3     0     0    26     0   59.621
+  45 Auburn                                      4     5     1   123   115   59.491
+  46 Drexel Institute(PA)                        1     0     0    19     6   59.467
+  47 Boston College                              7     3     0   235   106   59.383
+  48 Villanova                                   2     1     0    20    19   59.120
+  49 Michigan State                              5     3     1   150    77   58.933
+  50 Rhode Island                                2     0     0    40     6   58.771
+  51 UCLA                                        1     1     0    37    54   58.704
+  52 Georgia Tech                                3     6     0    82   130   58.306
+  53 Montana                                     2     0     0    36     7   57.784
+  54 Washington & Jefferson(PA)                  1     0     0    14     6   57.583
+  55 Tufts(MA)                                   1     0     0    14     7   57.255
+  56 Clemson                                     7     2     0   233    90   57.005
+  57 Akron                                       5     3     1   114    76   56.900
+  58 Ohio                                        1     0     1    26     0   56.850
+  59 Wesleyan(CT)                                1     0     0     7     0   56.805
+  60 Coast Guard                                 1     0     0     7     0   56.805
+  61 Florida                                     4     6     0   149    97   56.537
+  62 Georgetown(DC)                              1     1     0    32    14   56.418
+  63 Detroit                                     2     1     0    65    16   56.415
+  64 Purdue                                      1     1     1     7    13   56.394
+  65 Arkansas                                    3     7     0   118   149   56.246
   66 East Carolina                               7     0     0   159    20   56.206
-  67 Baylor                                      3     6     1   106   161   56.187
-  68 Tulsa                                       1     1     0    26    26   55.929
-  69 Iowa                                        3     5     0    91    99   55.907
-  70 Akron                                       5     3     1   114    76   55.821
-  71 Ohio                                        1     0     1    26     0   55.775
-  72 Indiana                                     2     6     0   101   126   55.667
-  73 Miami(FL)                                   8     2     0   162    54   55.389
-  74 Columbia                                    0     3     0     3    48   54.782
-  75 Maine                                       1     0     0    14    13   54.682
-  76 Utah                                        4     0     1   116    38   54.610
-  77 Marquette                                   2     1     0    68    33   54.545
-  78 Texas A&M-Kingsville                        1     0     0    35     7   53.780
-  79 Boston University                           1     1     0    21    32   53.754
-  80 West Virginia                               1     3     0    45    39   53.638
-  81 Southern Cal                                0     1     0     0    14   53.452
-  82 Pittsburgh                                  0     2     0     7    67   53.333
-  83 VMI                                         1     3     0    61    73   53.208
-  84 Nebraska                                    3     2     0    79    46   52.946
-  85 Stanford                                    0     1     0     0    16   52.597
-  86 Illinois                                    2     6     0   112   163   52.571
-  87 Yale                                        0     1     0     7    20   52.504
-  88 South Carolina                              1     3     0    30    58   52.455
-  89 Citadel                                     0     1     0     6    19   52.217
-  90 North Carolina                              0     1     0     6    55   52.000
-  91 Arizona                                     7     3     0   253   146   51.937
-  92 San Francisco                               2     0     0    72    40   51.688
-  93 Marshall                                    7     1     0   237    47   51.440
-  94 Cincinnati                                  6     3     0   194    45   51.380
-  95 Maryland                                    3     5     1    49   196   51.341
-  96 McDaniel College(MD)                        0     0     1     6     6   51.339
-  97 Temple                                      1     2     0    31    86   51.068
-  98 Manhattan(NY)                               0     1     0    13    26   50.512
-  99 Hardin-Simmons(TX)                          2     1     0    33    20   50.083
- 100 Kansas State                                2     5     2    67   168   50.033
- 101 Fort Hays State(KS)                         0     0     1     0     0   50.032
- 102 Rhodes(TN)                                  1     1     0    32    40   49.761
- 103 Massachusetts                               3     4     1    93   120   49.633
- 104 Connecticut                                 2     6     0    58    82   49.581
- 105 John Carroll(OH)                            1     1     0    24    21   49.471
- 106 Lehigh                                      0     0     1     0     0   49.136
- 107 Buffalo                                     3     4     1    55    75   49.136
- 108 Davidson                                    0     1     0     0    56   48.974
- 109 Bergen JC(NJ)                               0     1     0     7    13   48.750
- 110 Middle Tennessee State                      1     0     0    13    12   48.674
- 111 Dartmouth                                   0     1     0     0    35   48.612
- 112 Texas Tech                                  0     1     0     0     6   48.478
- 113 Wooster(OH)                                 0     0     1    14    14   48.368
- 114 Bowling Green                               7     1     1   173    40   48.362
- 115 Erskine(SC)                                 0     1     0     7    14   48.338
- 116 Saint Mary's(CA)                            0     1     0     0    31   48.036
- 117 Ohio Wesleyan                               1     1     0    32    34   47.839
- 118 Kansas                                      3     6     0    74   222   47.537
- 119 Idaho                                       4     5     0   123   135   47.107
- 120 Muskingum                                   0     1     0     0    10   46.740
- 121 Brigham Young                               4     3     2   136   100   46.712
- 122 Case Institute of Technology(OH)            1     0     0     7     6   46.500
- 123 Southern Miss                               1     0     1    19     7   46.442
- 124 Georgetown(KY)                              1     0     0    13     6   46.409
- 125 DePauw(IN)                                  1     0     0    13     6   46.409
- 126 Drake                                       1     2     0    22    78   46.354
- 127 Washington & Lee                            0     2     0     0    13   46.143
- 128 Ohio Wesyleyan                              0     1     0     7    31   45.919
- 129 Virginia Tech                               0     1     0    14    37   45.903
+  67 Baylor                                      3     6     1   106   161   56.197
+  68 Kentucky                                    5     4     0   151   154   55.970
+  69 Iowa                                        3     5     0    91    99   55.969
+  70 Tulsa                                       1     1     0    26    26   55.950
+  71 Indiana                                     2     6     0   101   126   55.715
+  72 Miami(FL)                                   8     2     0   162    54   55.472
+  73 Marshall                                    7     1     0   237    47   54.975
+  74 Columbia                                    0     3     0     3    48   54.810
+  75 Murray State                                2     0     0    65    12   54.774
+  76 Boston University                           1     1     0    21    32   54.590
+  77 Utah                                        4     0     1   116    38   54.577
+  78 Marquette                                   2     1     0    68    33   54.574
+  79 Maine                                       1     0     0    14    13   54.457
+  80 Texas A&M-Kingsville                        1     0     0    35     7   53.673
+  81 West Virginia                               1     3     0    45    39   53.563
+  82 Southern Cal                                0     1     0     0    14   53.456
+  83 Pittsburgh                                  0     2     0     7    67   53.390
+  84 VMI                                         1     3     0    61    73   53.332
+  85 Nebraska                                    3     2     0    79    46   52.984
+  86 Illinois                                    2     6     0   112   163   52.706
+  87 Cincinnati                                  6     3     0   194    45   52.618
+  88 Stanford                                    0     1     0     0    16   52.599
+  89 South Carolina                              1     3     0    30    58   52.571
+  90 Yale                                        0     1     0     7    20   52.512
+  91 Citadel                                     0     1     0     6    19   52.224
+  92 North Carolina                              0     1     0     6    55   52.059
+  93 Arizona                                     7     3     0   253   146   51.871
+  94 San Francisco                               2     0     0    72    40   51.664
+  95 Maryland                                    3     5     1    49   196   51.417
+  96 McDaniel College(MD)                        0     0     1     6     6   51.413
+  97 Temple                                      1     2     0    31    86   51.170
+  98 Manhattan(NY)                               0     1     0    13    26   50.827
+  99 John Carroll(OH)                            1     1     0    24    21   50.556
+ 100 Kansas State                                2     5     2    67   168   50.060
+ 101 Fort Hays State(KS)                         0     0     1     0     0   50.057
+ 102 Hardin-Simmons(TX)                          2     1     0    33    20   49.881
+ 103 Wooster(OH)                                 0     0     1    14    14   49.452
+ 104 Bowling Green                               7     1     1   173    40   49.446
+ 105 Massachusetts                               3     4     1    93   120   49.401
+ 106 Connecticut                                 2     6     0    58    82   49.357
+ 107 Lehigh                                      0     0     1     0     0   49.136
+ 108 Buffalo                                     3     4     1    55    75   49.136
+ 109 Davidson                                    0     1     0     0    56   48.990
+ 110 Ohio Wesleyan                               1     1     0    32    34   48.893
+ 111 Bergen JC(NJ)                               0     1     0     7    13   48.750
+ 112 Dartmouth                                   0     1     0     0    35   48.635
+ 113 Texas Tech                                  0     1     0     0     6   48.559
+ 114 Erskine(SC)                                 0     1     0     7    14   48.338
+ 115 Rhodes(TN)                                  1     1     0    32    40   48.109
+ 116 Saint Mary's(CA)                            0     1     0     0    31   48.021
+ 117 Tennessee Tech                              1     0     0     6     0   47.976
+ 118 Muskingum                                   0     1     0     0    10   47.819
+ 119 DePauw(IN)                                  1     0     0    13     6   47.597
+ 120 Georgetown(KY)                              1     0     0    13     6   47.597
+ 121 Case Institute of Technology(OH)            1     0     0     7     6   47.591
+ 122 Kansas                                      3     6     0    74   222   47.563
+ 123 Idaho                                       4     5     0   123   135   47.105
+ 124 Brigham Young                               4     3     2   136   100   46.692
+ 125 Western Kentucky                            1     1     0    22    41   46.662
+ 126 Drake                                       1     2     0    22    78   46.420
+ 127 Wake Forest                                 0     4     0    26   114   46.395
+ 128 Washington & Lee                            0     2     0     0    13   46.109
+ 129 Ohio Wesyleyan                              0     1     0     7    31   45.949
  130 Western Carolina                            0     1     0     6    19   45.874
- 131 Springfield(MA)                             0     1     1    15    32   45.660
- 132 Belmont Abbey(NC)                           0     1     0     0    13   45.622
- 133 UTEP                                        1     1     1    42    33   45.555
- 134 Colorado State                              4     2     1   109    77   45.548
- 135 Samford(AL)                                 0     3     0     0    93   45.429
- 136 Colorado                                    3     4     1    97   161   45.303
- 137 Iowa State                                  2     6     1    85   181   45.280
- 138 Xavier(OH)                                  0     1     0     6    21   45.239
- 139 North Carolina State                        0     2     0    12    82   45.162
- 140 Denver                                      1     3     1    46    40   45.079
- 141 West Texas A&M                              2     0     0    20    13   44.959
- 142 Tennessee-Chattanooga                       0     1     0     0    20   44.921
- 143 Presbyterian                                0     1     0    12    41   44.798
- 144 Tampa(FL)                                   0     1     0     6    20   44.715
- 145 Wake Forest                                 0     4     0    26   114   44.360
- 146 Louisiana Tech                              5     4     1   134   112   43.735
- 147 George Washington                           0     1     0     0    19   43.674
- 148 Memphis                                     6     3     0   172    76   43.543
- 149 Mercer(GA)                                  0     1     0     0    81   43.460
- 150 Furman                                      0     1     0     6    34   42.462
- 151 CCNY                                        0     1     0     0     6   42.229
- 152 Middlebury(VT)                              0     1     0     0     7   42.110
- 153 Hobart(NY)                                  0     1     0     7    12   42.105
- 154 Brooklyn(NY)                                0     1     0    19    33   41.857
- 155 Rollins(FL)                                 0     1     0     0    21   41.652
- 156 Louisiana-Lafayette                         6     2     1   124    73   41.614
- 157 Butler                                      1     0     0    13     6   41.393
- 158 Randolph-Macon(VA)                          0     1     0     0    26   41.264
- 159 West Liberty State(WV)                      0     0     1     0     0   41.258
- 160 Kent State                                  2     5     1   109   100   41.252
- 161 Scranton                                    0     1     0     0    13   40.856
- 162 Healani AC(HI)                              1     1     0    32    27   40.639
- 163 Grand Rapids(MI)                            1     0     0     7     6   40.526
- 164 Hawaii                                      8     1     0   193    83   40.462
- 165 Centre(KY)                                  0     2     0     6    65   40.225
- 166 Tampa                                       0     1     0     6    46   40.219
- 167 Miami(OH)                                   2     7     0    98   176   40.041
- 168 Norfolk NAS(VA)                             0     1     0     0    30   40.002
- 169 Arizona State                               5     5     1   111   137   40.001
- 170 Tusculum(TN)                                0     1     0     0    31   39.774
- 171 New Mexico                                  0     1     1     6    31   39.736
- 172 Wayne State                                 1     3     0    12    95   39.651
- 173 Morehead State                              0     1     0     7    28   39.160
- 174 Hampden-Sydney                              0     1     0     0    18   38.657
- 175 Louisville                                  4     4     0   142   134   38.379
- 176 West Virginia Wesleyan                      0     1     0     0    34   38.284
- 177 Union(TN)                                   1     1     0    76     7   38.276
- 178 Newport News Apprentice                     0     1     0     0    39   38.199
- 179 Sunflower JC(MS)                            1     0     0    68     0   38.122
- 180 Toledo                                      0     1     0     7    33   38.051
- 181 Carnegie-Mellon                             0     1     0     0    20   38.000
- 182 Western Kentucky                            0     1     0     7    34   37.850
- 183 Wittenberg(OH)                              0     1     0     0    13   37.797
- 184 Elon(NC)                                    0     1     0     0    38   37.516
- 185 Utah State                                  0     4     0    13    64   37.351
- 186 Washington(MO)                              0     1     0     6    19   37.199
- 187 San José State                              0     0     1     0     0   37.100
- 188 Camp Haan(CA)                               0     0     1     7     7   37.100
- 189 Fresno State                                4     3     2   118    90   37.100
- 190 Saint Anselm(NH)                            0     1     0     0    78   36.823
- 191 Susquehanna(PA)                             0     1     0     0    19   36.099
- 192 Central Oklahoma                            0     1     0     0    56   35.807
- 193 Central Michigan                            4     3     0    44    76   35.275
- 194 Illinois Wesleyan                           0     1     0     7    51   35.213
- 195 Missouri-Rolla                              1     0     0    46     0   35.173
- 196 SE Missouri State                           1     0     0    44     0   34.849
- 197 Northwestern State                          0     2     0     0    16   34.678
- 198 Wayne State(MI)                             1     0     0    12     0   34.592
- 199 Colorado School of Mines                    0     1     0     6    21   34.555
- 200 SE Louisiana                                0     2     0    21    40   34.461
- 201 Gonzaga                                     0     2     0     7    27   34.130
- 202 Millsaps(MS)                                0     2     0     6    27   33.910
- 203 New Mexico State                            0     2     0    14    66   33.619
- 204 Nebraska-Omaha                              0     1     0     6    62   33.382
- 205 Northern Illinois                           0     0     1     6     6   33.358
- 206 Manchester(IN)                              0     0     1     0     0   33.358
- 207 Ball State                                  3     2     2    98    26   33.349
- 208 Heidelberg(OH)                              0     1     0     6    39   33.246
- 209 Worcester Tech(MA)                          0     1     0     0    32   32.911
- 210 Northern Colorado                           0     2     0     0    32   32.787
- 211 Delta St                                    0     1     0     7    23   32.592
- 212 Wyoming                                     0     3     0     7    77   32.348
- 213 Nevada                                      0     2     0    10    32   32.241
- 214 Kalamazoo(MI)                               1     0     0     7     0   31.933
- 215 Southern Illinois                           1     0     0    27     0   31.278
- 216 Hawaii Bears                                0     2     0    19    47   30.838
- 217 Willamette(OR)                              0     2     0    12    53   30.687
- 218 Na Alii(HI)                                 0     2     0    20    52   30.527
- 219 Austin Peay                                 1     1     0    34    26   30.236
- 220 Indiana State                               1     1     0    14     7   29.799
- 221 South Dakota                                0     1     0     0    27   29.794
- 222 Centenary(LA)                               0     1     0     7    39   29.226
- 223 Louisiana College                           0     2     0     7    68   29.120
- 224 Montana State                               0     1     0     0    39   29.089
- 225 Southern Arkansas                           1     0     0    19     0   28.774
- 226 Transylvania(KY)                            0     2     0     0    59   28.226
- 227 Northern Michigan                           0     1     0     0     7   27.831
- 228 Pacific                                     0     2     0     0    27   27.712
- 229 DeSales(OH)                                 0     1     0     6    12   27.704
- 230 Troy                                        0     1     0     0    32   26.924
- 231 Findlay(OH)                                 0     2     0     0    73   26.823
- 232 Stephen F. Austin                           0     1     0     0    25   26.679
- 233 Portland(OR)                                0     1     0     6    33   26.469
- 234 West Alabama                                0     1     0     0    38   25.755
- 235 Hanover(IN)                                 0     2     0     6    74   25.559
- 236 Northern Arizona                            0     2     0     0    74   25.249
- 237 Wabash(IN)                                  0     1     0     0    26   24.868
- 238 Evansville                                  0     1     0     6    31   24.777
- 239 Hope(MI)                                    0     0     1     0     0   24.464
- 240 Illinois State                              0     0     1     0     0   24.464
- 241 Eastern Michigan                            0     5     2    12    65   24.454
- 242 Spring Hill(AL)                             0     1     0     0    39   23.600
- 243 UCSB                                        0     1     0     0    26   21.897
- 244 San Diego State                             0     1     0     0    26   21.897
- 245 Blufton(OH)                                 0     1     0     0    58   20.908
- 246 Rio Grande(OH)                              0     1     0     0    58   17.925
- 247 Central Normal(IN)                          0     1     0     0    33   16.608
- 248 Arkansas State                              0     7     0     0   308   15.637
- 249 Valparaiso(IN)                              0     1     0     0    40   15.341
+ 131 Southern Miss                               1     0     1    19     7   45.861
+ 132 Virginia Tech                               0     1     0    14    37   45.637
+ 133 Belmont Abbey(NC)                           0     1     0     0    13   45.622
+ 134 Colorado State                              4     2     1   109    77   45.530
+ 135 Samford(AL)                                 0     3     0     0    93   45.502
+ 136 Springfield(MA)                             0     1     1    15    32   45.432
+ 137 North Carolina State                        0     2     0    12    82   45.422
+ 138 Iowa State                                  2     6     1    85   181   45.307
+ 139 UTEP                                        1     1     1    42    33   45.303
+ 140 Colorado                                    3     4     1    97   161   45.287
+ 141 Presbyterian                                0     1     0    12    41   45.075
+ 142 Denver                                      1     3     1    46    40   45.073
+ 143 Xavier(OH)                                  0     1     0     6    21   44.973
+ 144 Tennessee-Chattanooga                       0     1     0     0    20   44.899
+ 145 West Texas A&M                              2     0     0    20    13   44.878
+ 146 Tampa(FL)                                   0     1     0     6    20   44.793
+ 147 Scranton                                    0     1     0     0    13   44.397
+ 148 George Washington                           0     1     0     0    19   43.950
+ 149 Mercer(GA)                                  0     1     0     0    81   43.375
+ 150 Louisiana Tech                              5     4     1   134   112   43.263
+ 151 Furman                                      0     1     0     6    34   42.736
+ 152 Morehead State                              0     1     0     7    28   42.704
+ 153 Butler                                      1     0     0    13     6   42.607
+ 154 West Liberty State(WV)                      0     0     1     0     0   42.349
+ 155 Kent State                                  2     5     1   109   100   42.342
+ 156 CCNY                                        0     1     0     0     6   42.229
+ 157 Hobart(NY)                                  0     1     0     7    12   42.105
+ 158 Middlebury(VT)                              0     1     0     0     7   41.885
+ 159 Rollins(FL)                                 0     1     0     0    21   41.726
+ 160 Grand Rapids(MI)                            1     0     0     7     6   41.695
+ 161 Brooklyn(NY)                                0     1     0    19    33   41.624
+ 162 Toledo                                      0     1     0     7    33   41.597
+ 163 Centre(KY)                                  0     2     0     6    65   41.409
+ 164 Randolph-Macon(VA)                          0     1     0     0    26   41.297
+ 165 Healani AC(HI)                              1     1     0    32    27   41.109
+ 166 Miami(OH)                                   2     7     0    98   176   41.071
+ 167 Middle Tennessee State                      4     3     1   120    87   41.060
+ 168 Hawaii                                      8     1     0   193    83   40.926
+ 169 Louisiana-Lafayette                         6     2     1   124    73   40.896
+ 170 Wayne State                                 1     3     0    12    95   40.768
+ 171 Memphis                                     6     3     0   172    76   40.556
+ 172 Tampa                                       0     1     0     6    46   40.247
+ 173 Norfolk NAS(VA)                             0     1     0     0    30   40.002
+ 174 Arizona State                               5     5     1   111   137   39.892
+ 175 Tusculum(TN)                                0     1     0     0    31   39.774
+ 176 New Mexico                                  0     1     1     6    31   39.635
+ 177 Louisville                                  4     4     0   142   134   39.566
+ 178 Carnegie-Mellon                             0     1     0     0    20   39.238
+ 179 Wittenberg(OH)                              0     1     0     0    13   38.884
+ 180 Illinois Wesleyan                           0     1     0     7    51   38.769
+ 181 Hampden-Sydney                              0     1     0     0    18   38.725
+ 182 Union(TN)                                   1     1     1    90    21   38.388
+ 183 West Virginia Wesleyan                      0     1     0     0    34   38.345
+ 184 Newport News Apprentice                     0     1     0     0    39   38.199
+ 185 Sunflower JC(MS)                            1     0     0    68     0   38.150
+ 186 Elon(NC)                                    0     1     0     0    38   37.572
+ 187 Utah State                                  0     4     0    13    64   37.336
+ 188 Washington(MO)                              0     1     0     6    19   37.221
+ 189 San José State                              0     0     1     0     0   37.058
+ 190 Camp Haan(CA)                               0     0     1     7     7   37.058
+ 191 Fresno State                                4     3     2   118    90   37.058
+ 192 Saint Anselm(NH)                            0     1     0     0    78   37.051
+ 193 Nebraska-Omaha                              0     1     0     6    62   36.953
+ 194 Central Michigan                            4     3     0    44    76   36.441
+ 195 Susquehanna(PA)                             0     1     0     0    19   36.099
+ 196 Wayne State(MI)                             1     0     0    12     0   35.832
+ 197 Central Oklahoma                            0     1     0     0    56   35.790
+ 198 Northern Illinois                           0     0     1     6     6   34.569
+ 199 Manchester(IN)                              0     0     1     0     0   34.569
+ 200 Ball State                                  3     2     2    98    26   34.557
+ 201 Colorado School of Mines                    0     1     0     6    21   34.536
+ 202 Missouri-Rolla                              1     0     0    46     0   34.412
+ 203 Heidelberg(OH)                              0     1     0     6    39   34.336
+ 204 Northwestern State                          0     2     0     0    16   34.062
+ 205 SE Missouri State                           1     0     0    44     0   34.058
+ 206 Gonzaga                                     0     2     0     7    27   34.045
+ 207 SE Louisiana                                0     2     0    21    40   33.844
+ 208 New Mexico State                            0     2     0    14    66   33.515
+ 209 Kalamazoo(MI)                               1     0     0     7     0   33.170
+ 210 Northern Colorado                           0     2     0     0    32   32.698
+ 211 Worcester Tech(MA)                          0     1     0     0    32   32.670
+ 212 Wyoming                                     0     3     0     7    77   32.327
+ 213 Nevada                                      0     2     0    10    32   32.199
+ 214 Millsaps(MS)                                0     2     0     6    27   32.141
+ 215 Hawaii Bears                                0     2     0    19    47   31.318
+ 216 Willamette(OR)                              0     2     0    12    53   31.073
+ 217 Indiana State                               1     1     0    14     7   31.022
+ 218 Na Alii(HI)                                 0     2     0    20    52   31.008
+ 219 Southern Illinois                           1     0     0    27     0   30.332
+ 220 South Dakota                                0     1     0     0    27   29.810
+ 221 Delta St                                    0     1     0     7    23   29.616
+ 222 Transylvania(KY)                            0     2     0     0    59   29.417
+ 223 Montana State                               0     1     0     0    39   29.090
+ 224 Northern Michigan                           0     1     0     0     7   29.001
+ 225 DeSales(OH)                                 0     1     0     6    12   28.874
+ 226 Centenary(LA)                               0     1     0     7    39   28.757
+ 227 Delta State                                 0     1     0     6    26   28.665
+ 228 Louisiana College                           0     2     0     7    68   28.500
+ 229 Austin Peay                                 1     1     0    34    26   28.134
+ 230 Findlay(OH)                                 0     2     0     0    73   27.920
+ 231 Pacific                                     0     2     0     0    27   27.844
+ 232 Southern Arkansas                           1     0     0    19     0   27.784
+ 233 Portland(OR)                                0     1     0     6    33   26.972
+ 234 Hanover(IN)                                 0     2     0     6    74   26.681
+ 235 Stephen F. Austin                           0     1     0     0    25   25.967
+ 236 Evansville                                  0     1     0     6    31   25.965
+ 237 Gordon(GA)                                  0     1     0     0    26   25.905
+ 238 Wabash(IN)                                  0     1     0     0    26   25.898
+ 239 Illinois State                              0     0     1     0     0   25.699
+ 240 Hope(MI)                                    0     0     1     0     0   25.699
+ 241 Eastern Michigan                            0     5     2    12    65   25.686
+ 242 Austin Peay State                           0     1     0     0    28   25.394
+ 243 Northern Arizona                            0     2     0     0    74   25.148
+ 244 Troy                                        0     1     0     0    32   23.975
+ 245 Spring Hill(AL)                             0     1     0     0    39   22.897
+ 246 West Alabama                                0     1     0     0    38   22.821
+ 247 Blufton(OH)                                 0     1     0     0    58   22.018
+ 248 San Diego State                             0     1     0     0    26   21.862
+ 249 UCSB                                        0     1     0     0    26   21.862
+ 250 Rio Grande(OH)                              0     1     0     0    58   19.129
+ 251 Central Normal(IN)                          0     1     0     0    33   17.848
+ 252 Valparaiso(IN)                              0     1     0     0    40   16.595
+ 253 Arkansas State                              0     7     0     0   308   14.591
